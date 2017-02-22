@@ -96,12 +96,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<div class="tab-content">
 										  <div class="tab-pane active" id="men">
 											<ul class="nav-list list-inline">
-												<li><a href="women.php"><img src="images/t7.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="women.php"><img src="images/t8.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="women.php"><img src="images/t9.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="women.php"><img src="images/t11.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="women.php"><img src="images/t1.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="women.php"><img src="images/t12.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.php"><img src="../images/t7.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.php"><img src="../images/t8.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.php"><img src="../images/t9.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.php"><img src="../images/t11.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.php"><img src="../images/t1.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.php"><img src="../images/t12.jpg" class="img-responsive" alt=""/></a></li>
 											</ul>
 										  </div>
 									   </div>
@@ -118,12 +118,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<div class="tab-content">
 										  <div class="tab-pane active" id="men">
 											<ul class="nav-list list-inline">
-												<li><a href="men.php"><img src="images/t10.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="men.php"><img src="images/t2.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="men.php"><img src="images/t3.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="men.php"><img src="images/t4.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="men.php"><img src="images/t5.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="men.php"><img src="images/t6.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.php"><img src="../images/t10.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.php"><img src="../images/t2.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.php"><img src="../images/t3.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.php"><img src="../images/t4.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.php"><img src="../images/t5.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.php"><img src="../images/t6.jpg" class="img-responsive" alt=""/></a></li>
 											</ul>
 										  </div>
 										 

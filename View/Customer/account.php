@@ -8,12 +8,12 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <html>
 <head>
 <title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Account :: w3layouts</title>
-<link href="css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
+<link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<script src="js/jquery.min.js"></script>
+<script src="../js/jquery.min.js"></script>
 <!-- Custom Theme files -->
 <!--theme-style-->
-<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />	
+<link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />	
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -22,10 +22,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
 <!-- start menu -->
-<script src="js/bootstrap.min.js"></script>
-<script src="js/simpleCart.min.js"> </script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/simpleCart.min.js"> </script>
 <!-- slide -->
-<script src="js/responsiveslides.min.js"></script>
+<script src="../js/responsiveslides.min.js"></script>
    <script>
     $(function () {
       $("#slider").responsiveSlides({
@@ -50,7 +50,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<a href="checkout.html">
 						<h3> <div class="total">
 							<span class="simpleCart_total"></span></div>
-							<img src="images/cart.png" alt=""/></h3>
+							<img src="../images/cart.png" alt=""/></h3>
 						</a>
 						<p><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></p>
 
@@ -94,12 +94,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<div class="tab-content">
 										  <div class="tab-pane active" id="men">
 											<ul class="nav-list list-inline">
-												<li><a href="women.html"><img src="images/t7.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="women.html"><img src="images/t8.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="women.html"><img src="images/t9.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="women.html"><img src="images/t11.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="women.html"><img src="images/t1.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="women.html"><img src="images/t12.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.html"><img src="../images/t7.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.html"><img src="../images/t8.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.html"><img src="../images/t9.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.html"><img src="../images/t11.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.html"><img src="../images/t1.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="women.html"><img src="../images/t12.jpg" class="img-responsive" alt=""/></a></li>
 											</ul>
 										  </div>
 									   </div>
@@ -116,12 +116,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 										<div class="tab-content">
 										  <div class="tab-pane active" id="men">
 											<ul class="nav-list list-inline">
-												<li><a href="men.html"><img src="images/t10.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="men.html"><img src="images/t2.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="men.html"><img src="images/t3.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="men.html"><img src="images/t4.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="men.html"><img src="images/t5.jpg" class="img-responsive" alt=""/></a></li>
-												<li><a href="men.html"><img src="images/t6.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.html"><img src="../images/t10.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.html"><img src="../images/t2.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.html"><img src="../images/t3.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.html"><img src="../images/t4.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.html"><img src="../images/t5.jpg" class="img-responsive" alt=""/></a></li>
+												<li><a href="men.html"><img src="../images/t6.jpg" class="img-responsive" alt=""/></a></li>
 											</ul>
 										  </div>
 										 
@@ -143,8 +143,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				
 		<div class="clearfix"> </div>
 			<!---pop-up-box---->   
-					<link href="css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
-					<script src="js/jquery.magnific-popup.js" type="text/javascript"></script>
+					<link href="../css/popuo-box.css" rel="stylesheet" type="text/css" media="all"/>
+					<script src="../js/jquery.magnific-popup.js" type="text/javascript"></script>
 					<!---//pop-up-box---->
 				<div id="small-dialog" class="mfp-hide">
 				<div class="search-top">

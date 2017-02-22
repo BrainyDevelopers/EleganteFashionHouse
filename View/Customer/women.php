@@ -540,5 +540,4 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 	<!--footer-->
 	</body>
->>>>>>> 9bb8243491c641fc809520fe3ae7743aacade0cb
 </html>
