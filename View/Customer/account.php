@@ -39,12 +39,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 <body>
 
+
 		<!-- Require menu.php -->
 		<?php require("menu.php"); ?>		
 <div class="breadcrumbs">
 		<div class="container">
 			<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
-				<li><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
+				<li><a href="../../index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
 				<li class="active">Account</li>
 			</ol>
 		</div>
@@ -71,6 +72,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			    <div class="col-md-6 login-left">
 			  	 <h4>NEW CUSTOMERS</h4>
 				 <p>By creating an account with our store, you will be able to move through the checkout process faster, store multiple shipping addresses, view and track your orders in your account and more.</p>
+
 				 <a class="acount-btn" href="register.php">Create an Account</a>
 			   </div>
 			   <div class="clearfix"> </div>

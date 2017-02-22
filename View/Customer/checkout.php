@@ -44,7 +44,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="breadcrumbs">
 		<div class="container">
 			<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
-				<li><a href="index.html"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
+				<li><a href="../../index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
+
 				<li class="active">Checkout</li>
 			</ol>
 		</div>
@@ -62,10 +63,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<th>Sub total</th>
 		  </tr>
 		  <tr>
-			<td class="ring-in"><a href="single.html" class="at-in"><img src="../images/ce.jpg" class="img-responsive" alt=""></a>
+			<td class="ring-in"><a href="single.php" class="at-in"><img src="../images/ce.jpg" class="img-responsive" alt=""></a>
 			<div class="sed">
-				<h5>Sed ut perspiciatis unde</h5>
-				<p>(At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium) </p>
+				<h5>Silk dress</h5>
+				<p>(Size:2-12 (US) Color:Black, Royal Blue and Yellow) </p>
 			
 			</div>
 			<div class="clearfix"> </div></td>
@@ -75,10 +76,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<td>$100.00</td>
 		  </tr>
 		  <tr>
-		  <td class="ring-in"><a href="single.html" class="at-in"><img src="../images/ce1.jpg" class="img-responsive" alt=""></a>
+		  <td class="ring-in"><a href="single.php" class="at-in"><img src="../images/ce1.jpg" class="img-responsive" alt=""></a>
 			<div class="sed">
-				<h5>Sed ut perspiciatis unde</h5>
-				<p>(At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium ) </p>
+				<h5> Chevon Gold Embellished Short Dress</h5>
+				<p>(Size:2-18 (US) Color:Black, White and Orange) </p>
 			</div>
 			<div class="clearfix"> </div></td>
 			<td class="check"><input type="text" value="1" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}"></td>		
@@ -87,10 +88,10 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<td>$200.00</td>
 		  </tr>
 		  <tr>
-		  <td class="ring-in"><a href="single.html" class="at-in"><img src="../images/ce2.jpg" class="img-responsive" alt=""></a>
+		  <td class="ring-in"><a href="single.php" class="at-in"><img src="../images/ce2.jpg" class="img-responsive" alt=""></a>
 			<div class="sed">
-				<h5>Sed ut perspiciatis unde</h5>
-				<p>(At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium) </p>
+				<h5>Patterned Dress</h5>
+				<p>(Size:2-18 (US) Limited in stock) </p>
 			</div>
 			<div class="clearfix"> </div></td>
 			<td class="check"><input type="text" value="1" onfocus="this.value='';" onblur="if (this.value == '') {this.value ='';}"></td>		
@@ -103,6 +104,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<div class="clearfix"> </div>
     </div>
 </div>
+
 <?php include("footer.php"); ?>
 </body>
 </html>

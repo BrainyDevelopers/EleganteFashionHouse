@@ -45,7 +45,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <div class="breadcrumbs">
 		<div class="container">
 			<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
-				<li><a href="index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
+				<li><a href="../../index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
 				<li class="active">Men</li>
 			</ol>
 		</div>
@@ -134,9 +134,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>	
 			<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.html">
-							<img class="img-responsive" src="../images/pi12.png" alt="" />
 
+						<a href="single.php">
+							<img class="img-responsive" src="../images/pi12.png" alt="" />
 						</a>
 						<h3><a href="single.php">Palazoo</a></h3>
 						<div class="price">
@@ -153,9 +153,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="content-top1">
 				<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.html">
+						<a href="single.php">
 							<img class="img-responsive" src="../images/pi10.png" alt="" />
-
 						</a>
 						<h3><a href="single.php">Trouser</a></h3>
 						<div class="price">
@@ -167,9 +166,9 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>	
 			<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.html">
-							<img class="img-responsive" src="../images/pi11.png" alt="" />
 
+						<a href="single.php">
+							<img class="img-responsive" src="../images/pi11.png" alt="" />
 						</a>
 						<h3><a href="single.php">Jeans</a></h3>
 						<div class="price">
@@ -182,9 +181,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>	
 			<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.html">
+						<a href="single.php">
 							<img class="img-responsive" src="../images/pi9.png" alt="" />
-
 						</a>
 						<h3><a href="single.php">Trouser</a></h3>
 						<div class="price">
@@ -268,7 +266,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<h3 class="cate">Best Sellers</h3>
 					<div class="product-go">
 						<div class=" fashion-grid">
-							<a href="single.html"><img class="img-responsive " src="../images/pr.jpg" alt=""></a>	
+							<a href="single.php"><img class="img-responsive " src="../images/pr.jpg" alt=""></a>	
 
 						</div>
 						<div class=" fashion-grid1">
@@ -279,7 +277,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="product-go">
 						<div class=" fashion-grid">
-							<a href="single.html"><img class="img-responsive " src="../images/pr1.jpg" alt=""></a>	
+
+							<a href="single.php"><img class="img-responsive " src="../images/pr1.jpg" alt=""></a>	
 
 						</div>
 						<div class=" fashion-grid1">
@@ -290,8 +289,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>
 					<div class="product-go">
 						<div class=" fashion-grid">
-							<a href="single.html"><img class="img-responsive " src="../images/pr2.jpg" alt=""></a>	
-
+							<a href="single.php"><img class="img-responsive " src="../images/pr2.jpg" alt=""></a>	
 						</div>
 						<div class=" fashion-grid1">
 							<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
@@ -301,7 +299,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 					</div>	
 					<div class="product-go">
 						<div class=" fashion-grid">
-							<a href="single.html"><img class="img-responsive " src="../images/pr3.jpg" alt=""></a>	
+							<a href="single.php"><img class="img-responsive " src="../images/pr3.jpg" alt=""></a>	
 						</div>
 						<div class=" fashion-grid1">
 							<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
@@ -338,6 +336,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	</div>
 </div>
 <!--//content-->
+
 <?php include("footer.php"); ?>
+
 </body>
 </html>
