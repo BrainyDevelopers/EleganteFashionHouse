@@ -102,12 +102,30 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 												<div class="tab-content">
 												  <div class="tab-pane active" id="men">
 													<ul class="nav-list list-inline">
-														<li><a href="View/Customer/women.php"><img src="View/images/t7.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/women.php"><img src="View/images/t8.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/women.php"><img src="View/images/t9.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/women.php"><img src="View/images/t11.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/women.php"><img src="View/images/t1.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/women.php"><img src="View/images/t12.jpg" class="img-responsive" alt=""/></a></li>
+														<li>
+															<a href="View/Customer/women.php"><img src="View/images/t7.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="View/Customer/women.php"><img src="View/images/t8.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="View/Customer/women.php"><img src="View/images/t9.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="View/Customer/women.php"><img src="View/images/t11.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="View/Customer/women.php"><img src="View/images/t1.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="View/Customer/women.php"><img src="View/images/t12.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
 													</ul>
 												  </div>
 											   </div>
@@ -124,12 +142,30 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 												<div class="tab-content">
 												  <div class="tab-pane active" id="men">
 													<ul class="nav-list list-inline">
-														<li><a href="View/Customer/men.php"><img src="View/images/t10.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/men.php"><img src="View/images/t2.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/men.php"><img src="View/images/t3.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/men.php"><img src="View/images/t4.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/men.php"><img src="View/images/t5.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/men.php"><img src="View/images/t6.jpg" class="img-responsive" alt=""/></a></li>
+														<li>
+															<a href="View/Customer/men.php"><img src="View/images/t10.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="View/Customer/men.php"><img src="View/images/t2.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="View/Customer/men.php"><img src="View/images/t3.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="View/Customer/men.php"><img src="View/images/t4.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="View/Customer/men.php"><img src="View/images/t5.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="View/Customer/men.php"><img src="View/images/t6.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
 													</ul>
 												  </div>
 												 

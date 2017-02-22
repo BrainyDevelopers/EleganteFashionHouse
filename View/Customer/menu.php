@@ -77,12 +77,30 @@
 												<div class="tab-content">
 												  <div class="tab-pane active" id="men">
 													<ul class="nav-list list-inline">
-														<li><a href="men.php"><img src="../images/t10.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="men.php"><img src="../images/t2.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="men.php"><img src="../images/t3.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="men.php"><img src="../images/t4.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="men.php"><img src="../images/t5.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="men.php"><img src="../images/t6.jpg" class="img-responsive" alt=""/></a></li>
+														<li>
+															<a href="men.php"><img src="../images/t10.jpg" class="img-responsive" alt=""/></a>
+															<p>Trousers</p>
+														</li>
+														<li>
+															<a href="men.php"><img src="../images/t2.jpg" class="img-responsive" alt=""/></a>
+															<p>Shirts</p>
+														</li>
+														<li>
+															<a href="men.php"><img src="../images/t3.jpg" class="img-responsive" alt=""/></a>
+															<p>Shoes</p>
+														</li>
+														<li>
+															<a href="men.php"><img src="../images/t4.jpg" class="img-responsive" alt=""/></a>
+															<p>Trainers</p>
+														</li>
+														<li>
+															<a href="men.php"><img src="../images/t5.jpg" class="img-responsive" alt=""/></a>
+															<p>Belts</p>
+														</li>
+														<li>
+															<a href="men.php"><img src="../images/t6.jpg" class="img-responsive" alt=""/></a>
+															<p>Ties</p>
+														</li>
 													</ul>
 												  </div>
 												 
