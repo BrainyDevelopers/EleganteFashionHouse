@@ -4,7 +4,7 @@
 			<div class="header-top">
 				<div class="container">
 						<div class="col-sm-4 logo animated wow fadeInLeft" data-wow-delay=".5s">
-							<h1><a href="../../index.php">Youth <span>Fashion</span></a></h1>	
+							<h1><a href="../../index.php">ELEGANTE <span>Fashion</span></a></h1>	
 						</div>
 					<div class="col-sm-4 world animated wow fadeInRight" data-wow-delay=".5s">
 							<div class="cart box_1">
@@ -18,7 +18,7 @@
 							</div>
 					</div>
 					<div class="col-sm-2 number animated wow fadeInRight" data-wow-delay=".5s">
-							<span><i class="glyphicon glyphicon-phone"></i>085 596 234</span>
+							<span><i class="glyphicon glyphicon-phone"></i> +233 2014834933/span>
 							<p>Call me</p>
 					</div>
 					<div class="col-sm-2 search animated wow fadeInRight" data-wow-delay=".5s">		
