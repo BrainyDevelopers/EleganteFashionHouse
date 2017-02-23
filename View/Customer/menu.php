@@ -4,7 +4,7 @@
 			<div class="header-top">
 				<div class="container">
 						<div class="col-sm-4 logo animated wow fadeInLeft" data-wow-delay=".5s">
-							<h1><a href="index.php">Youth <span>Fashion</span></a></h1>	
+							<h1><a href="../../index.php">Youth <span>Fashion</span></a></h1>	
 						</div>
 					<div class="col-sm-4 world animated wow fadeInRight" data-wow-delay=".5s">
 							<div class="cart box_1">
@@ -46,7 +46,7 @@
 						   <!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
 								<ul class="nav navbar-nav nav_1">
-									<li><a href="index.php">Home</a></li>
+									<li><a href="../../index.php">Home</a></li>
 									<li class="dropdown mega-dropdown active">
 										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Women<span class="caret"></span></a>				
 										<div class="dropdown-menu mega-dropdown-menu">
@@ -55,12 +55,12 @@
 												<div class="tab-content">
 												  <div class="tab-pane active" id="men">
 													<ul class="nav-list list-inline">
-														<li><a href="View/Customer/women.php"><img src="View/images/t7.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/women.php"><img src="View/images/t8.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/women.php"><img src="View/images/t9.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/women.php"><img src="View/images/t11.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/women.php"><img src="View/images/t1.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/women.php"><img src="View/images/t12.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="women.php"><img src="../images/t7.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="women.php"><img src="../images/t8.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="women.php"><img src="../images/t9.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="women.php"><img src="../images/t11.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="women.php"><img src="../images/t1.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="women.php"><img src="../images/t12.jpg" class="img-responsive" alt=""/></a></li>
 													</ul>
 												  </div>
 											   </div>
@@ -77,12 +77,12 @@
 												<div class="tab-content">
 												  <div class="tab-pane active" id="men">
 													<ul class="nav-list list-inline">
-														<li><a href="View/Customer/men.php"><img src="View/images/t10.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/men.php"><img src="View/images/t2.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/men.php"><img src="View/images/t3.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/men.php"><img src="View/images/t4.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/men.php"><img src="View/images/t5.jpg" class="img-responsive" alt=""/></a></li>
-														<li><a href="View/Customer/men.php"><img src="View/images/t6.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="men.php"><img src="../images/t10.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="men.php"><img src="../images/t2.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="men.php"><img src="../images/t3.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="men.php"><img src="../images/t4.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="men.php"><img src="../images/t5.jpg" class="img-responsive" alt=""/></a></li>
+														<li><a href="men.php"><img src="../images/t6.jpg" class="img-responsive" alt=""/></a></li>
 													</ul>
 												  </div>
 												 
@@ -92,9 +92,9 @@
 											                   
 										</div>				
 									</li>
-									<li><a href="View/Customer/products.php">Products</a></li>
-									<li><a href="View/Customer/account.php">Sign In</a></li>
-									<li class="last"><a href="View/Customer/contact.php">Contact</a></li>
+									<li><a href="products.php">Products</a></li>
+									<li><a href="account.php">Sign In</a></li>
+									<li class="last"><a href="contact.php">Contact</a></li>
 								</ul>
 							 </div><!-- /.navbar-collapse -->
 						  
