@@ -53,7 +53,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--content-->
 <div class="products">
 	<div class="container">
-		<h2>Men</h2>
+		<h2>Shoes</h2>
 		<div class="col-md-9">
 			<div class="content-top1">
 				<div class="col-md-4 col-md4">
