@@ -8,10 +8,10 @@
 						</div>
 					<div class="col-sm-4 world animated wow fadeInRight" data-wow-delay=".5s">
 							<div class="cart box_1">
-								<a href="View/Customer/checkout.php">
+								<a href="checkout.php">
 								<h3> <div class="total">
 									<span class="simpleCart_total"></span></div>
-									<img src="View/images/cart.png" alt=""/></h3>
+									<img src="../images/cart.png" alt=""/></h3>
 								</a>
 								<p><a href="javascript:;" class="simpleCart_empty">Empty Cart</a></p>
 
