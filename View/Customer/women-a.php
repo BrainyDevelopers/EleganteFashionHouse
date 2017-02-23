@@ -1,7 +1,13 @@
+<!--A Design by W3layouts 
+Author: W3layout
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Contact :: w3layouts</title>
+		<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Women :: w3layouts</title>
 		<link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="../js/jquery.min.js"></script>
@@ -21,7 +27,6 @@
 		<script src="../js/simpleCart.min.js"> </script>
 		<!-- slide -->
 		<script src="../js/responsiveslides.min.js"></script>
-
 		   <script>
 		    $(function () {
 		      $("#slider").responsiveSlides({
@@ -34,17 +39,27 @@
 		  </script>
 	</head>
 	<body>
+	<!-- Include menu.php -->
 		<?php require('menu.php');?> 
 
+		<div class="breadcrumbs">
+				<div class="container">
+					<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
+						<li><a href="../../index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
+						<li class="active">Women</li>
+					</ol>
+				</div>
+			</div>
+		<!--content-->
 		<div class="products">
 			<div class="container">
-				<h2>ALL PRODUCTS</h2>
+				<h2>A</h2>
 				<div class="col-md-9">
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.html">
-									<img class="img-responsive" src="../images/pi9.png" alt="" />
+								<a href="single.php">
+									<img class="img-responsive" src="../images/pi.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -56,9 +71,8 @@
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.html">
-									<img class="img-responsive" src="../images/pi12.png" alt="" />
-
+								<a href="single.php">
+									<img class="img-responsive" src="../images/pi2.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -71,9 +85,8 @@
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.html">
-									<img class="img-responsive" src="../images/pi10.png" alt="" />
-
+								<a href="single.php">
+									<img class="img-responsive" src="../images/pi4.png" alt="" />
 								</a>
 								<h3><a href="single.php">Pant</a></h3>
 								<div class="price">
@@ -90,9 +103,8 @@
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.html">
-									<img class="img-responsive" src="../images/pi11.png" alt="" />
-
+								<a href="single.php">
+									<img class="img-responsive" src="../images/pi1.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -104,9 +116,8 @@
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.html">
-									<img class="img-responsive" src="../images/pi9.png" alt="" />
-
+								<a href="single.php">
+									<img class="img-responsive" src="../images/pi3.png" alt="" />
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
@@ -119,9 +130,8 @@
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi12.png" alt="" />
+									<img class="img-responsive" src="../images/pi5.png" alt="" />
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
@@ -139,7 +149,7 @@
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi10.png" alt="" />
+									<img class="img-responsive" src="../images/pi6.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -151,9 +161,8 @@
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi11.png" alt="" />
+									<img class="img-responsive" src="../images/pi7.png" alt="" />
 								</a>
 								<h3><a href="single.php">Jeans</a></h3>
 								<div class="price">
@@ -167,7 +176,7 @@
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi9.png" alt="" />
+									<img class="img-responsive" src="../images/pi8.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -252,7 +261,6 @@
 							<div class="product-go">
 								<div class=" fashion-grid">
 									<a href="single.php"><img class="img-responsive " src="../images/pr.jpg" alt=""></a>	
-
 								</div>
 								<div class=" fashion-grid1">
 									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
@@ -262,9 +270,7 @@
 							</div>
 							<div class="product-go">
 								<div class=" fashion-grid">
-
 									<a href="single.php"><img class="img-responsive " src="../images/pr1.jpg" alt=""></a>	
-
 								</div>
 								<div class=" fashion-grid1">
 									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
@@ -322,6 +328,7 @@
 		</div>
 		<!--//content-->
 
+		<!--FOOTER GOES HERE-->
 		<?php include("footer.php"); ?>
 	</body>
 </html>

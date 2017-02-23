@@ -53,7 +53,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!--content-->
 		<div class="products">
 			<div class="container">
-				<h2>Women</h2>
+				<h2>C</h2>
 				<div class="col-md-9">
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">

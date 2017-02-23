@@ -41,7 +41,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 </head>
 <body>
 
-		<?php require('menu.php');?> 
+	<?php require('menu.php');?> 
 
 <div class="breadcrumbs">
 		<div class="container">
