@@ -196,31 +196,16 @@
 									</li>
 									<li class="item2"><a href="#">Women </a>
 										<ul class="cute">
-											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="single.php">Automatic Fails </a></li>
+											<li class="subitem1"><a href="women-trousers.php">Trousers </a></li>
+											<li class="subitem2"><a href="women-shoes.php">Shoes</a></li>
+											<li class="subitem3"><a href="women-skirts.php">Skirts</a></li>
 										</ul>
 									</li>
 									<li class="item3"><a href="#">Kids</a>
 										<ul class="cute">
-											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
-										</ul>
-									</li>
-									<li class="item4"><a href="#">Accessories</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
-										</ul>
-									</li>
-											
-									<li class="item4"><a href="#">Shoes</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="product.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="product.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="product.php">Automatic Fails </a></li>
+											<li class="subitem1"><a href="kids-shoes.php">Shoes</a></li>
+											<li class="subitem2"><a href="kids-trousers.php">Trousers</a></li>
+											<li class="subitem3"><a href="kids-shirts.php">Shirts</a></li>
 										</ul>
 									</li>
 								</ul>
