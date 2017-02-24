@@ -18,7 +18,7 @@
 							</div>
 					</div>
 					<div class="col-sm-2 number animated wow fadeInRight" data-wow-delay=".5s">
-							<span><i class="glyphicon glyphicon-phone"></i> +233 2014834933 </span>
+							<span><i class="glyphicon glyphicon-phone"></i> +(233) 302 007 007</span>
 							<p>Call Us</p>
 					</div>
 					<div class="col-sm-2 search animated wow fadeInRight" data-wow-delay=".5s">		
