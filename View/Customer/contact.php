@@ -87,22 +87,22 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						<div class="col-md-4 address-grid">
 							<i class="glyphicon glyphicon-map-marker"></i>
 							<div class="address1">
-								<p>Lorem ipsum dolor</p>
-								<p>TL 19034-88974</p>
+								<p>Labone</p>
+								<p>Accra, Ghana</p>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
 						<div class="col-md-4 address-grid ">
 							<i class="glyphicon glyphicon-phone"></i>
 							<div class="address1">
-								<p>+885699655</p>
+								<p>+233 302 007 007</p>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
 						<div class="col-md-4 address-grid ">
 							<i class="glyphicon glyphicon-envelope"></i>
 							<div class="address1">
-								<p><a href="mailto:@example.com"> @example.com</a></p>
+								<p><a href="mailto:elegantefashion@gmail.com">elegantefashion@gmail.com</a></p>
 							</div>
 							<div class="clearfix"> </div>
 						</div>
