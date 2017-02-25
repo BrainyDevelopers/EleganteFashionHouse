@@ -3,28 +3,30 @@ Author: W3layout
 Author URL: http://w3layouts.com
 Customized by Brainy Developers, developers of e-commerce website for Elegante Fashion House 
 -->
+
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Elegante Fashion House - Kids Trousers</title>
-		<link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
+		<title>Elegante Fashion House - Products</title>
+		<link href="assets/css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="../js/jquery.min.js"></script>
+		<script src="assets/js/jquery.min.js"></script>
 		<!-- Custom Theme files -->
 		<!--theme-style-->
-		<link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />	
+		<link href="assets/css/style-c.css" rel="stylesheet" type="text/css" media="all" />	
 		<!--//theme-style-->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="keywords" content="Elegante FashioN House, Youth Fashion, Ghana Fashion House, Contemporary Designs, kids trousers" />
+		<meta name="keywords" content="Elegante Fashion House, Youth Fashion, Ghana Fashion House, Contemporary Designs, apparels in store" />
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 		<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
 		<!-- start menu -->
-		<script src="../js/bootstrap.min.js"></script>
-		<script src="../js/simpleCart.min.js"> </script>
+		<script src="assets/js/bootstrap.min.js"></script>
+		<script src="assets/js/simpleCart.min.js"> </script>
 		<!-- slide -->
-		<script src="../js/responsiveslides.min.js"></script>
+		<script src="assets/js/responsiveslides.min.js"></script>
+
 		   <script>
 		    $(function () {
 		      $("#slider").responsiveSlides({
@@ -37,45 +39,37 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 		  </script>
 	</head>
 	<body>
-	<!-- Include menu.php -->
-		<?php require('menu.php');?> 
 
-		<div class="breadcrumbs">
-				<div class="container">
-					<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
-						<li><a href="../../index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
-						<li class="active">Women</li>
-					</ol>
-				</div>
-			</div>
-		<!--content-->
 		<div class="products">
 			<div class="container">
-				<h2>Trouses</h2>
+				<h2>ALL PRODUCTS</h2>
 				<div class="col-md-9">
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.php">
-									<img class="img-responsive" src="../images/pi.png" alt="" />
+								<a href="single.html">
+									<img class="img-responsive" src="../images/pi9.png" alt="" />
 								</a>
-								<h3><a href="single.php">Trouser</a></h3>
+								<h3><a href="single.php">Skirt</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$60</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.php">
-									<img class="img-responsive" src="../images/pi2.png" alt="" />
+								<a href="single.html">
+									<img class="img-responsive" src="../images/pi12.png" alt="" />
+
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$60</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -83,13 +77,15 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.php">
-									<img class="img-responsive" src="../images/pi4.png" alt="" />
+								<a href="single.html">
+									<img class="img-responsive" src="../images/pi10.png" alt="" />
+
 								</a>
 								<h3><a href="single.php">Pant</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$70</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -101,26 +97,30 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.php">
-									<img class="img-responsive" src="../images/pi1.png" alt="" />
+								<a href="single.html">
+									<img class="img-responsive" src="../images/pi11.png" alt="" />
+
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$80</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.php">
-									<img class="img-responsive" src="../images/pi3.png" alt="" />
+								<a href="single.html">
+									<img class="img-responsive" src="../images/pi9.png" alt="" />
+
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$90</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -129,13 +129,14 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi5.png" alt="" />
+									<img class="img-responsive" src="../images/pi12.png" alt="" />
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
-										<div class="clearfix"> </div>
+									<h5 class="item_price">$85</h5>
+									<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+									<a href="add-product.php" class="item_add delete">DELETE</a>
+									<div class="clearfix"> </div>
 								</div>
 								
 							</div>
@@ -147,25 +148,28 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi6.png" alt="" />
+									<img class="img-responsive" src="../images/pi10.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$76</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
+
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi7.png" alt="" />
+									<img class="img-responsive" src="../images/pi11.png" alt="" />
 								</a>
 								<h3><a href="single.php">Jeans</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$70</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -174,12 +178,13 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi8.png" alt="" />
+									<img class="img-responsive" src="../images/pi9.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$80</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -217,6 +222,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 									</li>
 								</ul>
 							</div>
+
 						<!--initiate accordion-->
 								<script type="text/javascript">
 									$(function() {
@@ -237,14 +243,14 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 									
 									});
 								</script>
+
+					<a href="#" id="add-new">ADD NEW ITEM</a>
+
 		<!--//menu-->
 				</div>
 				<div class="clearfix"> </div>
 			</div>
 		</div>
 		<!--//content-->
-
-		<!--FOOTER GOES HERE-->
-		<?php include("footer.php"); ?>
 	</body>
 </html>
