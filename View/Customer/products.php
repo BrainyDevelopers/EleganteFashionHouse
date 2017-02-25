@@ -1,7 +1,13 @@
+<!--A Design by W3layouts 
+Author: W3layout
+Author URL: http://w3layouts.com
+Customized by Brainy Developers, developers of e-commerce website for Elegante Fashion House 
+-->
+
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Contact :: w3layouts</title>
+		<title>Elegante Fashion House - Products</title>
 		<link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="../js/jquery.min.js"></script>
@@ -48,7 +54,7 @@
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$60</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -62,7 +68,7 @@
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$60</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -77,7 +83,7 @@
 								</a>
 								<h3><a href="single.php">Pant</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$70</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -96,7 +102,7 @@
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$80</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -110,7 +116,7 @@
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$90</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -125,7 +131,7 @@
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$85</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -143,7 +149,7 @@
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$76</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -157,7 +163,7 @@
 								</a>
 								<h3><a href="single.php">Jeans</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$70</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -171,7 +177,7 @@
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$80</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>

@@ -6,7 +6,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 <!DOCTYPE html>
 <html>
 <head>
-<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Checkout :: w3layouts</title>
+<title>Elegante Fashion House - Checkout</title>
 <link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="../js/jquery.min.js"></script>
