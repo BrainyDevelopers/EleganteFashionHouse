@@ -21,9 +21,6 @@
     <!--  Paper Dashboard core CSS    -->
     <link href="assets/css/paper-dashboard.css" rel="stylesheet"/>
 
-    <!--  CSS for Demo Purpose, don't include it in your project     -->
-    <link href="assets/css/demo.css" rel="stylesheet" />
-
     <!--  Fonts and icons     -->
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
@@ -54,18 +51,19 @@
                         <p>Dashboard</p>
                     </a>
                 </li>
-                <li class="active">
+                <li>
                     <a href="user.php">
                         <i class="ti-user"></i>
                         <p>User Profile</p>
                     </a>
                 </li>
-                <li>
-                    <a href="manage-inventory.php">
-                        <i class="ti-pencil-alt2"></i>
-                        <p>Manage Inventory</p>
-                    </a>
+                <li class="active">
+	                <a href="manage-inventory.php">
+	                    <i class="ti-pencil-alt2"></i>
+	                    <p>Manage Inventory</p>
+	                </a>
                 </li>
+                
                 <li>
                     <a href="notifications.php">
                         <i class="ti-bell"></i>
@@ -132,69 +130,54 @@
                                 <!-- Form start here -->
                                 <form>
                                     <div class="row">
-                                        <div class="col-md-12">
+                                        <div class="col-md-6">
                                             <div class="form-group">
                                                 <label>Name</label>
-                                                <input type="text" class="form-control border-input" placeholder="Company" value="Elegante Fashion House">
+                                                <input type="text" class="form-control border-input" value="">
                                             </div>
                                         </div>
                                         <div class="col-md-6">
                                             <div class="form-group">
                                                 <label>Price</label>
-                                                <input type="number" class="form-control border-input" placeholder="Username" value="jomens">
+                                                <input type="number" class="form-control border-input" value="jomens">
                                             </div>
                                         </div>
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <label for="exampleInputEmail1">Email address</label>
-                                                <input type="email" class="form-control border-input" placeholder="Email">
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <label>First Name</label>
-                                                <input type="text" class="form-control border-input" placeholder="Company" value="Joseph">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <label>Last Name</label>
-                                                <input type="text" class="form-control border-input" placeholder="Last Name" value="Mensah">
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <label>Address</label>
-                                                <input type="text" class="form-control border-input" placeholder="Home Address" value="Labone, Accra">
-                                            </div>
-                                        </div>
-                                        <div class="col-md-6">
-                                            <div class="form-group">
-                                                <label>City</label>
-                                                <input type="text" class="form-control border-input" placeholder="City" value="Accra">
-                                            </div>
-                                        </div>
-                                    </div>
-
-                                    <div class="row">
                                         <div class="col-md-12">
                                             <div class="form-group">
-                                                <label>About Me</label>
-                                                <textarea rows="5" class="form-control border-input" placeholder="Here can be your description" value="Mike">Oh so, your weak rhyme
-You doubt I'll bother, reading into it
-I'll probably won't, left to my own devices
-But that's the difference in our opinions.</textarea>
+                                                <label for="exampleInputEmail1">Description</label>
+                                                <textarea rows="5" class="form-control border-input" placeholder="Here can be your description" value="Mike"></textarea>
                                             </div>
                                         </div>
                                     </div>
+
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label>Category</label>
+                                                <select class="form-control border-input">
+                                                	<option value="">Select</option>
+                                                	<option value="mens">Mens</option>
+  													<option value="womens">Womens</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <div class="form-group">
+                                                <label>Type</label>
+                                                <select class="form-control border-input">
+                                                	<option value="">Select</option>
+                                                	<option value="shirts">Shirts</option>
+  													<option value="trousers">Trousers</option>
+  													<option value="shoes">Shoes</option>
+  													<option value="skirts">Skirts</option>
+                                                </select>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    
                                     <div class="text-center">
-                                        <button type="submit" class="btn btn-info btn-fill btn-wd">Update Profile</button>
+                                        <button type="submit" class="btn btn-info btn-fill btn-wd">ADD</button>
                                     </div>
                                     <div class="clearfix"></div>
                                 </form>
