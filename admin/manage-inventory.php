@@ -56,7 +56,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$60</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
@@ -71,7 +71,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$60</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -87,7 +87,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$70</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -107,7 +107,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$80</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
@@ -122,7 +122,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$90</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -137,7 +137,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 									<h5 class="item_price">$85</h5>
 									<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-									<a href="add-product.php" class="item_add delete">DELETE</a>
+									<a href="#" class="item_add delete">DELETE</a>
 									<div class="clearfix"> </div>
 								</div>
 								
@@ -156,7 +156,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$76</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
@@ -171,7 +171,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$70</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -186,7 +186,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$80</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -239,7 +239,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 									});
 								</script>
 
-					<a href="add-product.php" id="add-new">ADD NEW ITEM</a>
+					<a href="#" id="add-new">DELETE ITEM</a>
 
 		<!--//menu-->
 				</div>
