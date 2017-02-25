@@ -59,7 +59,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						<a href="single.php">
 							<img class="img-responsive" src="../images/up&down_men.png" alt="" />
 						</a>
-						<h3><a href="single.php">Trouser</a></h3>
+						<h3><a href="single.php">Africa Print Wear</a></h3>
 						<div class="price">
 								<h5 class="item_price">$120</h5>
 								<a href="#" class="item_add">Add To Cart</a>
