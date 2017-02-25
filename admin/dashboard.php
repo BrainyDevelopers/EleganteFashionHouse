@@ -43,32 +43,32 @@
 
         <div class="sidebar-wrapper">
             <div class="logo">
-                <a href="http://www.creative-tim.com" class="simple-text">
+                <a href="http://www.elegantestore.wordpress.com" class="simple-text">
                     Elegante Fashion
                 </a>
             </div>
 
             <ul class="nav">
                 <li>
-                    <a href="dashboard.html">
+                    <a href="dashboard.php">
                         <i class="ti-panel"></i>
                         <p>Dashboard</p>
                     </a>
                 </li>
                 <li class="active">
-                    <a href="user.html">
+                    <a href="user.php">
                         <i class="ti-user"></i>
                         <p>User Profile</p>
                     </a>
                 </li>
                 <li>
-                    <a href="icons.html">
+                    <a href="manage-inventory.php">
                         <i class="ti-pencil-alt2"></i>
                         <p>Manage Inventory</p>
                     </a>
                 </li>
                 <li>
-                    <a href="notifications.html">
+                    <a href="notifications.php">
                         <i class="ti-bell"></i>
                         <p>Notifications</p>
                     </a>
@@ -134,7 +134,7 @@
                                 <div class="row">
                                     <div class="col-xs-5">
                                         <div class="icon-big icon-warning text-center">
-                                            <i class="ti-server"></i>
+                                            <i class="ti-wallet"></i>
                                         </div>
                                     </div>
                                     <div class="col-xs-7">
@@ -184,7 +184,7 @@
                                 <div class="row">
                                     <div class="col-xs-5">
                                         <div class="icon-big icon-danger text-center">
-                                            <i class="ti-pulse"></i>
+                                            <i class="ti-wallet"></i>
                                         </div>
                                     </div>
                                     <div class="col-xs-7">
@@ -284,7 +284,9 @@
 
     </div>
 </div>
-    
+
+    <!-- Include footer.php in the -->
+    <?php include("footer.php"); ?>
 </body>
 
     <!--   Core JS Files   -->

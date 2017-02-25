@@ -49,25 +49,25 @@
 
             <ul class="nav">
                 <li>
-                    <a href="dashboard.html">
+                    <a href="dashboard.php">
                         <i class="ti-panel"></i>
                         <p>Dashboard</p>
                     </a>
                 </li>
                 <li class="active">
-                    <a href="user.html">
+                    <a href="user.php">
                         <i class="ti-user"></i>
                         <p>User Profile</p>
                     </a>
                 </li>
                 <li>
-                    <a href="icons.html">
+                    <a href="icons.php">
                         <i class="ti-pencil-alt2"></i>
                         <p>Manage Inventory</p>
                     </a>
                 </li>
                 <li>
-                    <a href="notifications.html">
+                    <a href="notifications.php">
                         <i class="ti-bell"></i>
                         <p>Notifications</p>
                     </a>
