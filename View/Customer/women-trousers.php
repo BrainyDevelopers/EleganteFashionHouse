@@ -3,7 +3,6 @@ Author: W3layout
 Author URL: http://w3layouts.com
 Customized by Brainy Developers, developers of e-commerce website for Elegante Fashion House 
 -->
--->
 <!DOCTYPE html>
 <html>
 	<head>
