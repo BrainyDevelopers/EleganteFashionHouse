@@ -536,7 +536,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</ul>
 						</div>
 						<div class="clearfix"> </div>
-						<p class="footer-class"> © 2016 Youth Fashion . All Rights Reserved | Design by <a href="http://w3layouts.com/" target="_blank">W3layouts</a> </p>
+						<p class="footer-class"> © 2016 Youth Fashion . All Rights Reserved | Design by <a href="" target="_blank"> Brainy Developers </a> </p>
 					</div>
 			</div>
 		<!--footer-->
