@@ -43,7 +43,7 @@
 
         <div class="sidebar-wrapper">
             <div class="logo">
-                <a href="http://www.elegantestore.wordpress.com" class="simple-text">
+                <a href="../index.php" class="simple-text">
                     Elegante Fashion
                 </a>
             </div>
