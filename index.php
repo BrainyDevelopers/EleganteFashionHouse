@@ -1,13 +1,12 @@
 <!--A Design by W3layouts 
 Author: W3layout
 Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+Customized by Brainy Developers, developers of e-commerce website for Elegante Fashion House 
 -->
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Home :: w3layouts</title>
+		<title>Elegante Fashion House - Home page</title>
 		<link href="View/css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="View/js/jquery.min.js"></script>
@@ -17,8 +16,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!--//theme-style-->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="keywords" content="Youth Fashion Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-		Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+		<meta name="keywords" content="Elegante FashioN House, Youth Fashion, Ghana Fashion House, Contemporary Designs" />
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 		<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
@@ -266,7 +264,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="col-md-3 col-md2 animated wow fadeInRight" data-wow-delay=".5s">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="View/Customer/single.php">
-									<img class="img-responsive" src="View/images/pi4.png" alt="" />
+									<img class="img-responsive" src="View/images/Fabric.png" alt="" />
 								</a>
 								<h3><a href="View/Customer/single.php">Pant</a></h3>
 								<div class="price">
@@ -295,7 +293,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="col-md-3 col-md2 animated wow fadeInLeft" data-wow-delay=".5s">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="View/Customer/single.php">
-									<img class="img-responsive" src="View/images/pi2.png" alt="" />
+									<img class="img-responsive" src="View/images/trosers.png" alt="" />
 								</a>
 								<h3><a href="View/Customer/single.php">Trouser</a></h3>
 								<div class="price">
@@ -536,7 +534,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</ul>
 						</div>
 						<div class="clearfix"> </div>
-						<p class="footer-class"> © 2016 Youth Fashion . All Rights Reserved | Design by <a href="" target="_blank"> Brainy Developers </a> </p>
+						<p class="footer-class"> © 2016 Youth Fashion . All Rights Reserved | Design Brainy Devlopers <a href="https://elegantestore.wordpress.com/" target="_blank">Brainy Developers</a> </p>
+>>>>>>> 9756b1f4c1e47f4ef1c9fd2d92a635017d9ad3c0
 					</div>
 			</div>
 		<!--footer-->

@@ -56,7 +56,7 @@
 							</ul>
 						</div>
 						<div class="clearfix"> </div>
-						<p class="footer-class"> © 2016 Elegante Fashion . All Rights Reserved | Design by <a href="#" target="_blank"> Brainy Developers</a> </p>
+						<p class="footer-class"> © 2016 Elegante Fashion . All Rights Reserved | Brainy Developers <a href="https://elegantestore.wordpress.com/" target="_blank"> Brainy Developers</a> </p>
 					</div>
 			</div>
 		</div>
