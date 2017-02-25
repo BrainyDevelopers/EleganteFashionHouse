@@ -1,13 +1,12 @@
 <!--A Design by W3layouts 
 Author: W3layout
 Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+Customized by Brainy Developers, developers of e-commerce website for Elegante Fashion House 
 -->
 <!DOCTYPE html>
 <html>
 <head>
-<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Men :: w3layouts</title>
+<title>Elegante Fashion House - Men Trousers</title>
 <link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 <script src="../js/jquery.min.js"></script>
@@ -17,8 +16,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!--//theme-style-->
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<meta name="keywords" content="Youth Fashion Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+<meta name="keywords" content="Elegante FashioN House, Youth Fashion, Ghana Fashion House, Contemporary Designs, Men apparel" />
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 <link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
@@ -58,12 +56,12 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="content-top1">
 				<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.html">
-							<img class="img-responsive" src="../images/pi9.png" alt="" />
+						<a href="single.php">
+							<img class="img-responsive" src="../images/up&down_men.png" alt="" />
 						</a>
 						<h3><a href="single.php">Trouser</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">$120</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -77,7 +75,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 						<h3><a href="single.php">Trouser</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">$80</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -92,7 +90,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 						<h3><a href="single.php">Pant</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">$70</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -105,13 +103,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 			<div class="content-top1">
 				<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.html">
+						<a href="single.php">
 							<img class="img-responsive" src="../images/pi11.png" alt="" />
 
 						</a>
 						<h3><a href="single.php">Trouser</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">$80</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -119,13 +117,13 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 				</div>	
 			<div class="col-md-4 col-md4">
 					<div class="col-md1 simpleCart_shelfItem">
-						<a href="single.html">
+						<a href="single.php">
 							<img class="img-responsive" src="../images/pi9.png" alt="" />
 
 						</a>
 						<h3><a href="single.php">Palazoo</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">$75</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -140,7 +138,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 						<h3><a href="single.php">Palazoo</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">$65</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -158,7 +156,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 						<h3><a href="single.php">Trouser</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">$85</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -172,7 +170,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 						<h3><a href="single.php">Jeans</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">$65</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>
@@ -186,7 +184,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 						</a>
 						<h3><a href="single.php">Trouser</a></h3>
 						<div class="price">
-								<h5 class="item_price">$300</h5>
+								<h5 class="item_price">$60</h5>
 								<a href="#" class="item_add">Add To Cart</a>
 								<div class="clearfix"> </div>
 						</div>

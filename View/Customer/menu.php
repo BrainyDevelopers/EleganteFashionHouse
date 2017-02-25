@@ -50,7 +50,7 @@
 									<li><a href="women.php">Women</li>
 									<li><a href="men.php">Men</li>
 									<li><a href="products.php">Products</a></li>
-									<li><a href="account.php">Sign In</a></li>
+									<li><a href="account.php">Create Account</a></li>
 									<li class="last"><a href="contact.php">Contact</a></li>
 								</ul>
 							 </div><!-- /.navbar-collapse -->
