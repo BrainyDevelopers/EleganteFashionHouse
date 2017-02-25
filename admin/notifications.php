@@ -61,7 +61,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="">
+                    <a href="manage-inventory.php">
                         <i class="ti-text"></i>
                         <p>Manage Inventory</p>
                     </a>

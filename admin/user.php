@@ -61,7 +61,7 @@
                     </a>
                 </li>
                 <li>
-                    <a href="icons.php">
+                    <a href="manage-inventory.php">
                         <i class="ti-pencil-alt2"></i>
                         <p>Manage Inventory</p>
                     </a>

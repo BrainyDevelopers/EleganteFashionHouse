@@ -461,23 +461,30 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 
 .price .edit{
-  background-color: #4286f4;
+  background-color:white;
+  color: black;
+  border: 1px solid #4286f4;
 }
 
 .price .delete{
-  background-color: #cc2833;
+  background-color:white;
+  color: black;
+  border: 1px solid #cc2833;
 }
+
 
 #add-new{
   color: white;
   text-decoration: none;
   top:80%;
   bottom: 10;
-  background-color: #2c8949;
   padding: 10px 10px;
   border-radius: 3px;  
   position: fixed;
   z-index: 9999;
+  background-color:white;
+  color: black;
+  border: 1px solid #2c8949;
 }
 
 
@@ -1059,7 +1066,6 @@ ul.social {
 }
 /*--menu-drop--*/
 h3.cate {
-    color: #fa03bb;
     font-size: 1.5em;
     font-family: 'Muli', cursive;
     font-weight: 700;

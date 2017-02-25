@@ -150,7 +150,8 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 										</div>				
 									</li>
 									<li><a href="View/Customer/products.php">Products</a></li>
-									<li><a href="View/Customer/account.php">Sign In</a></li>
+									<li><a href="View/Customer/signin.php">Sign In</a></li>
+									<li><a href="View/register.php">Create Account</a></li>
 									<li class="last"><a href="View/Customer/contact.php">Contact</a></li>
 								</ul>
 							 </div><!-- /.navbar-collapse -->
