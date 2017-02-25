@@ -38,9 +38,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 		  </script>
 	</head>
 	<body>
-	<!-- Include menu.php -->
-		<?php require('menu.php');?> 
-
+		<?php require('menu.php'); ?> 
 		<div class="breadcrumbs">
 				<div class="container">
 					<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
@@ -48,7 +46,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						<li class="active">Women</li>
 					</ol>
 				</div>
-			</div>
+		</div>
 		<!--content-->
 		<div class="products">
 			<div class="container">
@@ -62,7 +60,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$100</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -209,14 +207,6 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 											<li class="subitem3"><a href="women-skirts.php">Skirts</a></li>
 										</ul>
 									</li>
-									<li class="item3"><a href="#">Kids</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="kids-shoes.php">Shoes</a></li>
-											<li class="subitem2"><a href="kids-trousers.php">Trousers</a></li>
-											<li class="subitem3"><a href="kids-shirts.php">Shirts</a></li>
-										</ul>
-									</li>
-											
 								</ul>
 							</div>
 						<!--initiate accordion-->

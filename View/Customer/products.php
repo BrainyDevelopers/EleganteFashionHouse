@@ -206,13 +206,6 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 											<li class="subitem3"><a href="women-skirts.php">Skirts</a></li>
 										</ul>
 									</li>
-									<li class="item3"><a href="#">Kids</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="kids-shoes.php">Shoes</a></li>
-											<li class="subitem2"><a href="kids-trousers.php">Trousers</a></li>
-											<li class="subitem3"><a href="kids-shirts.php">Shirts</a></li>
-										</ul>
-									</li>
 								</ul>
 							</div>
 						<!--initiate accordion-->
@@ -241,7 +234,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 			</div>
 		</div>
 		<!--//content-->
-
+		<!--Footer-->
 		<?php include("footer.php"); ?>
 	</body>
 </html>

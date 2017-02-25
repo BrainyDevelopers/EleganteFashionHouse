@@ -16,8 +16,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 		<!--//theme-style-->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="keywords" content="Youth Fashion Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-		Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+		<meta name="keywords" content="Elegante FashioN House, Youth Fashion, Ghana Fashion House, Contemporary Designs, Women Shirts" />
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 		<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
@@ -58,11 +57,11 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi.png" alt="" />
+									<img class="img-responsive" src="../images/skirt1.png" alt="" />
 								</a>
-								<h3><a href="single.php">Trouser</a></h3>
+								<h3><a href="single.php">Pencil Skirt</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$50</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -71,11 +70,11 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi2.png" alt="" />
+									<img class="img-responsive" src="../images/ballon.png" alt="" />
 								</a>
-								<h3><a href="single.php">Trouser</a></h3>
+								<h3><a href="single.php">Balloon Skirt</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$40</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -89,7 +88,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								</a>
 								<h3><a href="single.php">Pant</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$70</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -107,7 +106,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$80</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -120,7 +119,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$70</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -134,7 +133,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$90</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -165,7 +164,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								</a>
 								<h3><a href="single.php">Jeans</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$40</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -179,7 +178,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
+										<h5 class="item_price">$90</h5>
 										<a href="#" class="item_add">Add To Cart</a>
 										<div class="clearfix"> </div>
 								</div>
@@ -209,13 +208,6 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 											<li class="subitem3"><a href="women-skirts.php">Skirts</a></li>
 										</ul>
 									</li>
-									<li class="item3"><a href="#">Kids</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="kids-shoes.php">Shoes</a></li>
-											<li class="subitem2"><a href="kids-trousers.php">Trousers</a></li>
-											<li class="subitem3"><a href="kids-shirts.php">Shirts</a></li>
-										</ul>
-									</li>
 								</ul>
 							</div>
 						<!--initiate accordion-->
@@ -239,6 +231,73 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 									});
 								</script>
 		<!--//menu-->
+		<!--seller-->
+						<div class="product-bottom">
+								<h3 class="cate">Best Sellers</h3>
+							<div class="product-go">
+								<div class=" fashion-grid">
+									<a href="single.php"><img class="img-responsive " src="../images/pr.jpg" alt=""></a>	
+								</div>
+								<div class=" fashion-grid1">
+									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
+									<span class=" price-in1"> $40.00</span>
+								</div>	
+								<div class="clearfix"> </div>
+							</div>
+							<div class="product-go">
+								<div class=" fashion-grid">
+									<a href="single.php"><img class="img-responsive " src="../images/pr1.jpg" alt=""></a>	
+								</div>
+								<div class=" fashion-grid1">
+									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
+									<span class=" price-in1"> $40.00</span>
+								</div>	
+								<div class="clearfix"> </div>
+							</div>
+							<div class="product-go">
+								<div class=" fashion-grid">
+									<a href="single.php"><img class="img-responsive " src="../images/pr2.jpg" alt=""></a>	
+								</div>
+								<div class=" fashion-grid1">
+									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
+									<span class=" price-in1"> $40.00</span>
+								</div>	
+								<div class="clearfix"> </div>
+							</div>	
+							<div class="product-go">
+								<div class=" fashion-grid">
+									<a href="single.php"><img class="img-responsive " src="../images/pr3.jpg" alt=""></a>	
+								</div>
+								<div class=" fashion-grid1">
+									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
+									<span class=" price-in1"> $40.00</span>
+								</div>	
+								<div class="clearfix"> </div>
+							</div>		
+						</div>
+
+		<!--//seller-->
+		<!--tag-->
+						<div class="tag">	
+								<h3 class="cate">Tags</h3>
+							<div class="tags">
+								<ul>
+									<li><a href="#">design</a></li>
+									<li><a href="#">fashion</a></li>
+									<li><a href="#">lorem</a></li>
+									<li><a href="#">dress</a></li>
+									<li><a href="#">fashion</a></li>
+									<li><a href="#">dress</a></li>
+									<li><a href="#">design</a></li>
+									<li><a href="#">dress</a></li>
+									<li><a href="#">design</a></li>
+									<li><a href="#">fashion</a></li>
+									<li><a href="#">lorem</a></li>
+									<li><a href="#">dress</a></li>
+								<div class="clearfix"> </div>
+								</ul>
+						</div>					
+					</div>
 				</div>
 				<div class="clearfix"> </div>
 			</div>
