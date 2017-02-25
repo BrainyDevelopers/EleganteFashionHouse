@@ -53,7 +53,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		<!--content-->
 		<div class="products">
 			<div class="container">
-				<h2>E</h2>
+				<h2>Skirts</h2>
 				<div class="col-md-9">
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
@@ -205,31 +205,16 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									</li>
 									<li class="item2"><a href="#">Women </a>
 										<ul class="cute">
-											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="single.php">Automatic Fails </a></li>
+											<li class="subitem1"><a href="women-trousers.php">Trousers </a></li>
+											<li class="subitem2"><a href="women-shoes.php">Shoes</a></li>
+											<li class="subitem3"><a href="women-skirts.php">Skirts</a></li>
 										</ul>
 									</li>
 									<li class="item3"><a href="#">Kids</a>
 										<ul class="cute">
-											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
-										</ul>
-									</li>
-									<li class="item4"><a href="#">Accessories</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
-										</ul>
-									</li>
-											
-									<li class="item4"><a href="#">Shoes</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="product.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="product.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="product.php">Automatic Fails </a></li>
+											<li class="subitem1"><a href="kids-shoes.php">Shoes</a></li>
+											<li class="subitem2"><a href="kids-trousers.php">Trousers</a></li>
+											<li class="subitem3"><a href="kids-shirts.php">Shirts</a></li>
 										</ul>
 									</li>
 								</ul>
@@ -254,7 +239,73 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									
 									});
 								</script>
-		<!--//menu-->				
+		<!--//menu-->
+		<!--seller-->
+						<div class="product-bottom">
+								<h3 class="cate">Best Sellers</h3>
+							<div class="product-go">
+								<div class=" fashion-grid">
+									<a href="single.php"><img class="img-responsive " src="../images/pr.jpg" alt=""></a>	
+								</div>
+								<div class=" fashion-grid1">
+									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
+									<span class=" price-in1"> $40.00</span>
+								</div>	
+								<div class="clearfix"> </div>
+							</div>
+							<div class="product-go">
+								<div class=" fashion-grid">
+									<a href="single.php"><img class="img-responsive " src="../images/pr1.jpg" alt=""></a>	
+								</div>
+								<div class=" fashion-grid1">
+									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
+									<span class=" price-in1"> $40.00</span>
+								</div>	
+								<div class="clearfix"> </div>
+							</div>
+							<div class="product-go">
+								<div class=" fashion-grid">
+									<a href="single.php"><img class="img-responsive " src="../images/pr2.jpg" alt=""></a>	
+								</div>
+								<div class=" fashion-grid1">
+									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
+									<span class=" price-in1"> $40.00</span>
+								</div>	
+								<div class="clearfix"> </div>
+							</div>	
+							<div class="product-go">
+								<div class=" fashion-grid">
+									<a href="single.php"><img class="img-responsive " src="../images/pr3.jpg" alt=""></a>	
+								</div>
+								<div class=" fashion-grid1">
+									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
+									<span class=" price-in1"> $40.00</span>
+								</div>	
+								<div class="clearfix"> </div>
+							</div>		
+						</div>
+
+		<!--//seller-->
+		<!--tag-->
+						<div class="tag">	
+								<h3 class="cate">Tags</h3>
+							<div class="tags">
+								<ul>
+									<li><a href="#">design</a></li>
+									<li><a href="#">fashion</a></li>
+									<li><a href="#">lorem</a></li>
+									<li><a href="#">dress</a></li>
+									<li><a href="#">fashion</a></li>
+									<li><a href="#">dress</a></li>
+									<li><a href="#">design</a></li>
+									<li><a href="#">dress</a></li>
+									<li><a href="#">design</a></li>
+									<li><a href="#">fashion</a></li>
+									<li><a href="#">lorem</a></li>
+									<li><a href="#">dress</a></li>
+								<div class="clearfix"> </div>
+								</ul>
+						</div>					
 					</div>
 				</div>
 				<div class="clearfix"> </div>
