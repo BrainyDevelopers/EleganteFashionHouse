@@ -24,7 +24,7 @@
     <!--  CSS for Demo Purpose, don't include it in your project     -->
     <link href="assets/css/demo.css" rel="stylesheet" />
 
-    <!--  Fonts and icons     -->
+    <!--     Fonts and icons     -->
     <link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
     <link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
     <link href="assets/css/themify-icons.css" rel="stylesheet">
@@ -43,7 +43,7 @@
     	<div class="sidebar-wrapper">
             <div class="logo">
                 <a href="http://www.creative-tim.com" class="simple-text">
-                    Creative Tim
+                    Elegante Fashion
                 </a>
             </div>
 
@@ -61,39 +61,15 @@
                     </a>
                 </li>
                 <li>
-                    <a href="table.html">
-                        <i class="ti-view-list-alt"></i>
-                        <p>Table List</p>
-                    </a>
-                </li>
-                <li>
-                    <a href="typography.html">
+                    <a href="">
                         <i class="ti-text"></i>
-                        <p>Typography</p>
-                    </a>
-                </li>
-                <li>
-                    <a href="icons.html">
-                        <i class="ti-pencil-alt2"></i>
-                        <p>Icons</p>
+                        <p>Manage Inventory</p>
                     </a>
                 </li>
                 <li class="active">
-                    <a href="maps.html">
-                        <i class="ti-map"></i>
-                        <p>Maps</p>
-                    </a>
-                </li>
-                <li>
                     <a href="notifications.html">
                         <i class="ti-bell"></i>
                         <p>Notifications</p>
-                    </a>
-                </li>
-				<li class="active-pro">
-                    <a href="upgrade.html">
-                        <i class="ti-export"></i>
-                        <p>Upgrade to PRO</p>
                     </a>
                 </li>
             </ul>
@@ -110,7 +86,7 @@
                         <span class="icon-bar bar2"></span>
                         <span class="icon-bar bar3"></span>
                     </button>
-                    <a class="navbar-brand" href="#">Maps</a>
+                    <a class="navbar-brand" href="#">Notifications</a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -147,20 +123,97 @@
             </div>
         </nav>
 
-		<div class="content">
-            <div class="container-fluid">
-                <div class="card card-map">
-					<div class="header">
-                        <h4 class="title">Google Maps</h4>
-                    </div>
-					<div class="map">
-						<div id="map"></div>
-					</div>
-				</div>
-			</div>
-		</div>
 
-		<footer class="footer">
+        <div class="content">
+            <div class="container-fluid">
+                <div class="card">
+                    <div class="header">
+                        <h4 class="title">Notifications</h4>
+                        <p class="category">Handcrafted by our friend <a target="_blank" href="https://github.com/mouse0270">Robert McIntosh</a>. Please checkout the <a href="http://bootstrap-notify.remabledesigns.com/" target="_blank">full documentation.</a></p>
+
+                    </div>
+                    <div class="content">
+                        <div class="row">
+                            <div class="col-md-6">
+                                <h5>Notifications Style</h5>
+                                <div class="alert alert-info">
+                                    <span>This is a plain notification</span>
+                                </div>
+                                <div class="alert alert-info">
+                                    <button type="button" aria-hidden="true" class="close">×</button>
+                                    <span>This is a notification with close button.</span>
+                                </div>
+                                <div class="alert alert-info alert-with-icon" data-notify="container">
+                                    <button type="button" aria-hidden="true" class="close">×</button>
+                                    <span data-notify="icon" class="ti-bell"></span>
+                                    <span data-notify="message">This is a notification with close button and icon.</span>
+                                </div>
+                                <div class="alert alert-info alert-with-icon" data-notify="container">
+                                    <button type="button" aria-hidden="true" class="close">×</button>
+                                    <span data-notify="icon" class="ti-pie-chart"></span>
+                                    <span data-notify="message">This is a notification with close button and icon and have many lines. You can see that the icon and the close button are always vertically aligned. This is a beautiful notification. So you don't have to worry about the style.</span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <h5>Notification states</h5>
+                                <div class="alert alert-info">
+                                    <button type="button" aria-hidden="true" class="close">×</button>
+                                    <span><b> Info - </b> This is a regular notification made with ".alert-info"</span>
+                                </div>
+                                <div class="alert alert-success">
+                                    <button type="button" aria-hidden="true" class="close">×</button>
+                                    <span><b> Success - </b> This is a regular notification made with ".alert-success"</span>
+                                </div>
+                                <div class="alert alert-warning">
+                                    <button type="button" aria-hidden="true" class="close">×</button>
+                                    <span><b> Warning - </b> This is a regular notification made with ".alert-warning"</span>
+                                </div>
+                                <div class="alert alert-danger">
+                                    <button type="button" aria-hidden="true" class="close">×</button>
+                                    <span><b> Danger - </b> This is a regular notification made with ".alert-danger"</span>
+                                </div>
+                            </div>
+                        </div>
+                        <br>
+                        <br>
+                        <div class="places-buttons">
+                            <div class="row">
+                                <div class="col-md-9">
+                                    <h5>Notifications Places
+                                        <p class="category">Click to view notifications</p>
+                                    </h5>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <button class="btn btn-default btn-block" onclick="demo.showNotification('top','left')">Top Left</button>
+                                </div>
+                                <div class="col-md-3">
+                                    <button class="btn btn-default btn-block" onclick="demo.showNotification('top','center')">Top Center</button>
+                                </div>
+                                <div class="col-md-3">
+                                    <button class="btn btn-default btn-block" onclick="demo.showNotification('top','right')">Top Right</button>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <button class="btn btn-default btn-block" onclick="demo.showNotification('bottom','left')">Bottom Left</button>
+                                </div>
+                                <div class="col-md-3">
+                                    <button class="btn btn-default btn-block" onclick="demo.showNotification('bottom','center')">Bottom Center</button>
+                                </div>
+                                <div class="col-md-3">
+                                    <button class="btn btn-default btn-block" onclick="demo.showNotification('bottom','right')">Bottom Right</button>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <footer class="footer">
             <div class="container-fluid">
                 <nav class="pull-left">
                     <ul>
@@ -215,11 +268,5 @@
 
 	<!-- Paper Dashboard DEMO methods, don't include it in your project! -->
 	<script src="assets/js/demo.js"></script>
-
-    <script>
-        $().ready(function(){
-            demo.initGoogleMaps();
-        });
-    </script>
 
 </html>

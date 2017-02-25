@@ -476,10 +476,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 				</div>
 			</div>
 		<!--footer-->
-		<div class="footer">
-			
-			<?php include ('View/Customer/footer.php');?>
-		</div>
-			
+		<?php include ('View/Customer/footer.php');?>
+	
 	</body>
 </html>

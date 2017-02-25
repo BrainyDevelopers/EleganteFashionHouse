@@ -1,64 +1,65 @@
 <!--A Design by W3layouts 
 Author: W3layout
 Author URL: http://w3layouts.com
-Customized by Brainy Developers, developers of e-commerce website for Elegante Fashion House 
--->
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
 -->
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Elegante FashioN House - Women Trousers</title>
-		<link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
-		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-		<script src="../js/jquery.min.js"></script>
-		<!-- Custom Theme files -->
-		<!--theme-style-->
-		<link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />	
-		<!--//theme-style-->
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="keywords" content="Elegante FashioN House, Youth Fashion, Ghana Fashion House, Contemporary Designs, Women Trousers" />
-		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-		<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-		<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
-		<!-- start menu -->
-		<script src="../js/bootstrap.min.js"></script>
-		<script src="../js/simpleCart.min.js"> </script>
-		<!-- slide -->
-		<script src="../js/responsiveslides.min.js"></script>
-		   <script>
-		    $(function () {
-		      $("#slider").responsiveSlides({
-		      	auto: true,
-		      	speed: 500,
-		        namespace: "callbacks",
-		        pager: true,
-		      });
-		    });
-		  </script>
+	<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Men :: w3layouts</title>
+	<link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="../js/jquery.min.js"></script>
+	<!-- Custom Theme files -->
+	<!--theme-style-->
+	<link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />	
+	<!--//theme-style-->
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="keywords" content="Youth Fashion Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+	<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+	<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+	<!-- start menu -->
+	<script src="../js/bootstrap.min.js"></script>
+	<script src="../js/simpleCart.min.js"> </script>
+	<!-- slide -->
+	<script src="../js/responsiveslides.min.js"></script>
+	   <script>
+	    $(function () {
+	      $("#slider").responsiveSlides({
+	      	auto: true,
+	      	speed: 500,
+	        namespace: "callbacks",
+	        pager: true,
+	      });
+	    });
+	  </script>
 	</head>
 	<body>
-	<!-- Include menu.php -->
+
 		<?php require('menu.php');?> 
 
 		<div class="breadcrumbs">
 				<div class="container">
 					<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
 						<li><a href="../../index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
-						<li class="active">Women</li>
+						<li class="active">Men</li>
 					</ol>
 				</div>
 			</div>
 		<!--content-->
 		<div class="products">
 			<div class="container">
-				<h2>Trousers</h2>
+				<h2>Ties</h2>
 				<div class="col-md-9">
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.php">
-									<img class="img-responsive" src="../images/pi.png" alt="" />
+								<a href="single.html">
+									<img class="img-responsive" src="../images/pi9.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -70,8 +71,9 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.php">
-									<img class="img-responsive" src="../images/pi2.png" alt="" />
+								<a href="single.html">
+									<img class="img-responsive" src="../images/pi12.png" alt="" />
+
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -84,8 +86,9 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.php">
-									<img class="img-responsive" src="../images/pi4.png" alt="" />
+								<a href="single.html">
+									<img class="img-responsive" src="../images/pi10.png" alt="" />
+
 								</a>
 								<h3><a href="single.php">Pant</a></h3>
 								<div class="price">
@@ -102,8 +105,9 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.php">
-									<img class="img-responsive" src="../images/pi1.png" alt="" />
+								<a href="single.html">
+									<img class="img-responsive" src="../images/pi11.png" alt="" />
+
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -115,8 +119,9 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.php">
-									<img class="img-responsive" src="../images/pi3.png" alt="" />
+								<a href="single.html">
+									<img class="img-responsive" src="../images/pi9.png" alt="" />
+
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
@@ -129,8 +134,9 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
+
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi5.png" alt="" />
+									<img class="img-responsive" src="../images/pi12.png" alt="" />
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
@@ -148,7 +154,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi6.png" alt="" />
+									<img class="img-responsive" src="../images/pi10.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -160,8 +166,9 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
+
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi7.png" alt="" />
+									<img class="img-responsive" src="../images/pi11.png" alt="" />
 								</a>
 								<h3><a href="single.php">Jeans</a></h3>
 								<div class="price">
@@ -175,7 +182,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi8.png" alt="" />
+									<img class="img-responsive" src="../images/pi9.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -204,16 +211,31 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 									</li>
 									<li class="item2"><a href="#">Women </a>
 										<ul class="cute">
-											<li class="subitem1"><a href="women-trousers.php">Trousers </a></li>
-											<li class="subitem2"><a href="women-shoes.php">Shoes</a></li>
-											<li class="subitem3"><a href="women-skirts.php">Skirts</a></li>
+											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
+											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
+											<li class="subitem3"><a href="single.php">Automatic Fails </a></li>
 										</ul>
 									</li>
 									<li class="item3"><a href="#">Kids</a>
 										<ul class="cute">
-											<li class="subitem1"><a href="kids-shoes.php">Shoes</a></li>
-											<li class="subitem2"><a href="kids-trousers.php">Trousers</a></li>
-											<li class="subitem3"><a href="kids-shirts.php">Shirts</a></li>
+											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
+											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
+											<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
+										</ul>
+									</li>
+									<li class="item4"><a href="#">Accessories</a>
+										<ul class="cute">
+											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
+											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
+											<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
+										</ul>
+									</li>
+											
+									<li class="item4"><a href="#">Shoes</a>
+										<ul class="cute">
+											<li class="subitem1"><a href="product.php">Cute Kittens </a></li>
+											<li class="subitem2"><a href="product.php">Strange Stuff </a></li>
+											<li class="subitem3"><a href="product.php">Automatic Fails </a></li>
 										</ul>
 									</li>
 								</ul>
@@ -245,7 +267,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 		</div>
 		<!--//content-->
 
-		<!--FOOTER GOES HERE-->
 		<?php include("footer.php"); ?>
+
 	</body>
 </html>

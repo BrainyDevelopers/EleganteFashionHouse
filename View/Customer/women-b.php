@@ -1,13 +1,13 @@
 <!--A Design by W3layouts 
 Author: W3layout
 Author URL: http://w3layouts.com
-Customized by Brainy Developers, developers of e-commerce website for Elegante Fashion House 
--->
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
 -->
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Elegante FashioN House - Women Trousers</title>
+		<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Women :: w3layouts</title>
 		<link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="../js/jquery.min.js"></script>
@@ -17,7 +17,8 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 		<!--//theme-style-->
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-		<meta name="keywords" content="Elegante FashioN House, Youth Fashion, Ghana Fashion House, Contemporary Designs, Women Trousers" />
+		<meta name="keywords" content="Youth Fashion Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+		Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 		<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
 		<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
@@ -52,7 +53,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 		<!--content-->
 		<div class="products">
 			<div class="container">
-				<h2>Trousers</h2>
+				<h2>B</h2>
 				<div class="col-md-9">
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
@@ -204,16 +205,31 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 									</li>
 									<li class="item2"><a href="#">Women </a>
 										<ul class="cute">
-											<li class="subitem1"><a href="women-trousers.php">Trousers </a></li>
-											<li class="subitem2"><a href="women-shoes.php">Shoes</a></li>
-											<li class="subitem3"><a href="women-skirts.php">Skirts</a></li>
+											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
+											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
+											<li class="subitem3"><a href="single.php">Automatic Fails </a></li>
 										</ul>
 									</li>
 									<li class="item3"><a href="#">Kids</a>
 										<ul class="cute">
-											<li class="subitem1"><a href="kids-shoes.php">Shoes</a></li>
-											<li class="subitem2"><a href="kids-trousers.php">Trousers</a></li>
-											<li class="subitem3"><a href="kids-shirts.php">Shirts</a></li>
+											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
+											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
+											<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
+										</ul>
+									</li>
+									<li class="item4"><a href="#">Accessories</a>
+										<ul class="cute">
+											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
+											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
+											<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
+										</ul>
+									</li>
+											
+									<li class="item4"><a href="#">Shoes</a>
+										<ul class="cute">
+											<li class="subitem1"><a href="product.php">Cute Kittens </a></li>
+											<li class="subitem2"><a href="product.php">Strange Stuff </a></li>
+											<li class="subitem3"><a href="product.php">Automatic Fails </a></li>
 										</ul>
 									</li>
 								</ul>
