@@ -323,7 +323,6 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 					</div>	
 				</div>
 			</div>
-		<!--footer-->
 		<?php include ('View/Customer/footer.php');?>
 	
 	</body>
