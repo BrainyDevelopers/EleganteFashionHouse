@@ -6,43 +6,110 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Elegante Fashion House - Products</title>
-		<link href="assets/css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
+	<head>	
+		<title>Elegante Fashion House |Manage Inventory</title>
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="assets/js/jquery.min.js"></script>
 		<!-- Custom Theme files -->
 		<!--theme-style-->
-		<link href="assets/css/style-c.css" rel="stylesheet" type="text/css" media="all" />	
+		<!--<link href="assets/css/style-c.css" rel="stylesheet" type="text/css" media="all" />-->	
 		<!--//theme-style-->
 		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
 		<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
-		
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    	<!-- Bootstrap core CSS     -->
+    	<link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+
+    	<!-- Animation library for notifications   -->
+    	<link href="assets/css/animate.min.css" rel="stylesheet"/>
+    	<!--  Paper Dashboard core CSS    -->
+    	<link href="assets/css/paper-dashboard.css" rel="stylesheet"/>
 		<meta name="keywords" content="Elegante Fashion House, Youth Fashion, Ghana Fashion House, Contemporary Designs, apparels in store" />
-		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-
-		<!-- start menu -->
-		<script src="assets/js/bootstrap.min.js"></script>
-		<script src="assets/js/simpleCart.min.js"> </script>
-		<!-- slide -->
-		<script src="assets/js/responsiveslides.min.js"></script>
-
-		   <script>
-		    $(function () {
-		      $("#slider").responsiveSlides({
-		      	auto: true,
-		      	speed: 500,
-		        namespace: "callbacks",
-		        pager: true,
-		      });
-		    });
-		  </script>
 	</head>
-	<body>
+<body>
+<div class="wrapper">   <div class="sidebar" data-background-color="white" data-active-color="danger">
 
-		<div class="products">
+    <!--
+        Tip 1: you can change the color of the sidebar's background using: data-background-color="white | black"
+        Tip 2: you can change the color of the active button using the data-active-color="primary | info | success | warning | danger"
+    -->
+
+        <div class="sidebar-wrapper">
+            <div class="logo">
+                <a href="../index.php" class="simple-text">
+                    Elegante Fashion
+                </a>
+            </div>
+
+            <ul class="nav">
+                <li>
+                    <a href="dashboard.php">
+                        <i class="ti-panel"></i>
+                        <p>Dashboard</p>
+                    </a>
+                </li>
+                <li class="active">
+                    <a href="user.php">
+                        <i class="ti-user"></i>
+                        <p>User Profile</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="manage-inventory.php">
+                        <i class="ti-pencil-alt2"></i>
+                        <p>Manage Inventory</p>
+                    </a>
+                </li>
+                <li>
+                    <a href="notifications.php">
+                        <i class="ti-bell"></i>
+                        <p>Notifications</p>
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="main-panel">
+        <nav class="navbar navbar-default">
+            <div class="container-fluid">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle">
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar bar1"></span>
+                        <span class="icon-bar bar2"></span>
+                        <span class="icon-bar bar3"></span>
+                    </button>
+                    <a class="navbar-brand" href="#">Manage Inventory</a>
+                </div>
+                <div class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="dropdown">
+                              <a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                                    <i class="ti-bell"></i>
+                                    <p class="notification">5</p>
+									<p>Notifications</p>
+									<b class="caret"></b>
+                              </a>
+                              <ul class="dropdown-menu">
+                                <li><a href="#">Notification 1</a></li>
+                                <li><a href="#">Notification 2</a></li>
+                                <li><a href="#">Notification 3</a></li>
+                                <li><a href="#">Notification 4</a></li>
+                                <li><a href="#">Another notification</a></li>
+                              </ul>
+                        </li>
+						<li>
+                            <a href="#">
+								<i class="ti-settings"></i>
+								<p>Settings</p>
+                            </a>
+                        </li>
+                    </ul>
+
+                </div>
+            </div>
+        </nav>
+	<div class="products">
 			<div class="container">
 				<h2>ALL PRODUCTS</h2>
 				<div class="col-md-9">
@@ -56,7 +123,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$60</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
@@ -71,7 +138,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$60</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -87,7 +154,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$70</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -107,7 +174,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$80</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
@@ -122,7 +189,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$90</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -137,7 +204,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 									<h5 class="item_price">$85</h5>
 									<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-									<a href="add-product.php" class="item_add delete">DELETE</a>
+									<a href="#" class="item_add delete">DELETE</a>
 									<div class="clearfix"> </div>
 								</div>
 								
@@ -156,7 +223,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$76</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
@@ -171,7 +238,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$70</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -186,7 +253,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 								<div class="price">
 										<h5 class="item_price">$80</h5>
 										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
-										<a href="add-product.php" class="item_add delete">DELETE</a>
+										<a href="#" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -238,14 +305,13 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 									
 									});
 								</script>
-
 					<a href="add-product.php" id="add-new">ADD NEW ITEM</a>
-
-		<!--//menu-->
 				</div>
 				<div class="clearfix"> </div>
 			</div>
 		</div>
-		<!--//content-->
+	</div>
+</div>
+		<?php include("footer.php"); ?>
 	</body>
 </html>

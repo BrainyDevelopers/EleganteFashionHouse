@@ -47,7 +47,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 				<li class="active">Men</li>
 			</ol>
 		</div>
-	</div>
+</div>
 <!--content-->
 <div class="products">
 	<div class="container">

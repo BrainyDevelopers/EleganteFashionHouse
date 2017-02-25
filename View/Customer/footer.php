@@ -56,7 +56,7 @@
 							</ul>
 						</div>
 						<div class="clearfix"> </div>
-						<p class="footer-class">&copy; <script>document.write(new Date().getFullYear())</script> Elegante Fashion House . All Rights Reserved |<a href="https://elegantestore.wordpress.com/" target="_blank"> Brainy Developers</a> </p>
+						<p class="footer-class">&copy; <script>document.write(new Date().getFullYear())</script>Elegante Fashion House. All Rights Reserved |<a href="https://elegantestore.wordpress.com/" target="_blank">Brainy Developers</a> </p>
 					</div>
 			</div>
 		</div>

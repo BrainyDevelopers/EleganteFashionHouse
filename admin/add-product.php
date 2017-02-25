@@ -6,7 +6,7 @@
 	<link rel="icon" type="image/png" sizes="96x96" href="assets/img/favicon.png">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
 
-	<title>Elegante Fashion | User Profile</title>
+	<title>Elegante Fashion | Add Product</title>
 
 	<meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport' />
     <meta name="viewport" content="width=device-width" />
@@ -84,7 +84,7 @@
                         <span class="icon-bar bar2"></span>
                         <span class="icon-bar bar3"></span>
                     </button>
-                    <a class="navbar-brand" href="#">User Profile</a>
+                    <a class="navbar-brand" href="#">Add Product</a>
                 </div>
                 <div class="collapse navbar-collapse">
                     <ul class="nav navbar-nav navbar-right">
@@ -128,7 +128,7 @@
                             <div class="content">
 
                                 <!-- Form start here -->
-                                <form>
+                                <form enctype="multipart/form-data" action="POST">
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
@@ -142,6 +142,11 @@
                                                 <input type="number" class="form-control border-input" value="jomens">
                                             </div>
                                         </div>
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+                                                <label for="product-image">Product Image</label>
+                                                <input type="file" name="product-image">
+                                            </div>
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <label for="exampleInputEmail1">Description</label>

@@ -38,8 +38,8 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 	</head>
 	<body>
 	<!-- Include menu.php -->
-		<?php require('menu.php');?> 
-
+		<?php  require('menu.php');?> 
+ 
 		<div class="breadcrumbs">
 				<div class="container">
 					<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
