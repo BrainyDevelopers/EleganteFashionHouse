@@ -476,6 +476,8 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 					</div>	
 				</div>
 			</div>
+
+			
 		<!--footer-->
 		<div class="footer">
 			<div class="container">
@@ -534,8 +536,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 							</ul>
 						</div>
 						<div class="clearfix"> </div>
-						<p class="footer-class"> © 2016 Youth Fashion . All Rights Reserved | Design Brainy Devlopers <a href="https://elegantestore.wordpress.com/" target="_blank">Brainy Developers</a> </p>
->>>>>>> 9756b1f4c1e47f4ef1c9fd2d92a635017d9ad3c0
+						<p class="footer-class"> © 2016 Youth Fashion . All Rights Reserved | Design by <a href="https://elegantestore.wordpress.com/" target="_blank">Brainy Developers</a> </p>
 					</div>
 			</div>
 		<!--footer-->
