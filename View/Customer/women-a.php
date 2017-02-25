@@ -198,9 +198,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									 <ul class="menu-drop">
 									<li class="item1"><a href="#">Men </a>
 										<ul class="cute">
-											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="single.php">Automatic Fails </a></li>
+											<li class="subitem1"><a href="men-shirts.php">Shirts</a></li>
+											<li class="subitem2"><a href="men-trousers.php">Trousers</a></li>
+											<li class="subitem3"><a href="men-shoes.php">Shoes</a></li>
 										</ul>
 									</li>
 									<li class="item2"><a href="#">Women </a>

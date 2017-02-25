@@ -18,8 +18,8 @@
 							</div>
 					</div>
 					<div class="col-sm-2 number animated wow fadeInRight" data-wow-delay=".5s">
-							<span><i class="glyphicon glyphicon-phone"></i> +233 2014834933/span>
-							<p>Call me</p>
+							<span><i class="glyphicon glyphicon-phone"></i> +233 2014834933 </span>
+							<p>Call Us</p>
 					</div>
 					<div class="col-sm-2 search animated wow fadeInRight" data-wow-delay=".5s">		
 						<a class="play-icon popup-with-zoom-anim" href="#small-dialog"><i class="glyphicon glyphicon-search"> </i> </a>
@@ -47,87 +47,8 @@
 							<div class="collapse navbar-collapse" id="bs-megadropdown-tabs">
 								<ul class="nav navbar-nav nav_1">
 									<li><a href="../../index.php">Home</a></li>
-									<li class="dropdown mega-dropdown active">
-										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Women<span class="caret"></span></a>				
-										<div class="dropdown-menu mega-dropdown-menu">
-											<div class="container-fluid">
-												<!-- Tab panes -->
-												<div class="tab-content">
-												  <div class="tab-pane active" id="men">
-													<ul class="nav-list list-inline">
-														<li>
-															<a href="women-a.php"><img src="../images/t7.jpg" class="img-responsive" alt=""/></a>
-															<p>Trousers</p>
-														</li>
-														<li>
-															<a href="women-b.php"><img src="../images/t8.jpg" class="img-responsive" alt=""/></a>
-															<p>Trousers</p>
-														</li>
-														<li>
-															<a href="women-c.php"><img src="../images/t9.jpg" class="img-responsive" alt=""/></a>
-															<p>Trousers</p>
-														</li>
-														<li>
-															<a href="women-d.php"><img src="../images/t11.jpg" class="img-responsive" alt=""/></a>
-															<p>Trousers</p>
-														</li>
-														<li>
-															<a href="women-e.php"><img src="../images/t1.jpg" class="img-responsive" alt=""/></a>
-															<p>Trousers</p>
-														</li>
-														<li>
-															<a href="women-f.php"><img src="../images/t12.jpg" class="img-responsive" alt=""/></a>
-															<p>Trousers</p>
-														</li>
-													</ul>
-												  </div>
-											   </div>
-											</div>
-											<!-- Nav tabs -->
-											                
-										</div>				
-									</li>
-									<li class="dropdown mega-dropdown active">
-										<a href="#" class="dropdown-toggle" data-toggle="dropdown">Men<span class="caret"></span></a>				
-										<div class="dropdown-menu mega-dropdown-menu">
-											<div class="container-fluid">
-												<!-- Tab panes -->
-												<div class="tab-content">
-												  <div class="tab-pane active" id="men">
-													<ul class="nav-list list-inline">
-														<li>
-															<a href="men-trousers.php"><img src="../images/t10.jpg" class="img-responsive" alt=""/></a>
-															<p>Trousers</p>
-														</li>
-														<li>
-															<a href="men-shirts.php"><img src="../images/t2.jpg" class="img-responsive" alt=""/></a>
-															<p>Shirts</p>
-														</li>
-														<li>
-															<a href="men-shoes.php"><img src="../images/t3.jpg" class="img-responsive" alt=""/></a>
-															<p>Shoes</p>
-														</li>
-														<li>
-															<a href="men-trainers.php"><img src="../images/t4.jpg" class="img-responsive" alt=""/></a>
-															<p>Trainers</p>
-														</li>
-														<li>
-															<a href="men-belt.php"><img src="../images/t5.jpg" class="img-responsive" alt=""/></a>
-															<p>Belts</p>
-														</li>
-														<li>
-															<a href="men-ties.php"><img src="../images/t6.jpg" class="img-responsive" alt=""/></a>
-															<p>Ties</p>
-														</li>
-													</ul>
-												  </div>
-												 
-											   </div>
-											</div>
-											<!-- Nav tabs -->
-											                   
-										</div>				
-									</li>
+									<li><a href="women.php">Women</li>
+									<li><a href="men.php">Men</li>
 									<li><a href="products.php">Products</a></li>
 									<li><a href="account.php">Sign In</a></li>
 									<li class="last"><a href="contact.php">Contact</a></li>

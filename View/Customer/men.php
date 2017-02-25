@@ -53,7 +53,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 <!--content-->
 <div class="products">
 	<div class="container">
-		<h2>Trainers</h2>
+		<h2>Men</h2>
 		<div class="col-md-9">
 			<div class="content-top1">
 				<div class="col-md-4 col-md4">
@@ -204,7 +204,7 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 							 <ul class="menu-drop">
 							<li class="item1"><a href="#">Men </a>
 								<ul class="cute">
-									<li class="subitem1"><a href="men-shirts.php">Shirts</a></li>
+									<li class="subitem1"><a href="men-shirts.php">Shirts </a></li>
 									<li class="subitem2"><a href="men-trousers.php">Trousers</a></li>
 									<li class="subitem3"><a href="men-shoes.php">Shoes</a></li>
 								</ul>

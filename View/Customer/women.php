@@ -7,59 +7,59 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 <!DOCTYPE html>
 <html>
 	<head>
-	<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Men :: w3layouts</title>
-	<link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
-	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-	<script src="../js/jquery.min.js"></script>
-	<!-- Custom Theme files -->
-	<!--theme-style-->
-	<link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />	
-	<!--//theme-style-->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="keywords" content="Youth Fashion Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-	<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-	<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
-	<!-- start menu -->
-	<script src="../js/bootstrap.min.js"></script>
-	<script src="../js/simpleCart.min.js"> </script>
-	<!-- slide -->
-	<script src="../js/responsiveslides.min.js"></script>
-	   <script>
-	    $(function () {
-	      $("#slider").responsiveSlides({
-	      	auto: true,
-	      	speed: 500,
-	        namespace: "callbacks",
-	        pager: true,
-	      });
-	    });
-	  </script>
+		<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Women :: w3layouts</title>
+		<link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="../js/jquery.min.js"></script>
+		<!-- Custom Theme files -->
+		<!--theme-style-->
+		<link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />	
+		<!--//theme-style-->
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="Youth Fashion Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+		Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
+		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+		<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
+		<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+		<!-- start menu -->
+		<script src="../js/bootstrap.min.js"></script>
+		<script src="../js/simpleCart.min.js"> </script>
+		<!-- slide -->
+		<script src="../js/responsiveslides.min.js"></script>
+		   <script>
+		    $(function () {
+		      $("#slider").responsiveSlides({
+		      	auto: true,
+		      	speed: 500,
+		        namespace: "callbacks",
+		        pager: true,
+		      });
+		    });
+		  </script>
 	</head>
 	<body>
-
+	<!-- Include menu.php -->
 		<?php require('menu.php');?> 
 
 		<div class="breadcrumbs">
 				<div class="container">
 					<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
 						<li><a href="../../index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
-						<li class="active">Men</li>
+						<li class="active">Women</li>
 					</ol>
 				</div>
 			</div>
 		<!--content-->
 		<div class="products">
 			<div class="container">
-				<h2>Ties</h2>
+				<h2>Women</h2>
 				<div class="col-md-9">
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.html">
-									<img class="img-responsive" src="../images/pi9.png" alt="" />
+								<a href="single.php">
+									<img class="img-responsive" src="../images/pi.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -71,9 +71,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.html">
-									<img class="img-responsive" src="../images/pi12.png" alt="" />
-
+								<a href="single.php">
+									<img class="img-responsive" src="../images/pi2.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -86,9 +85,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.html">
-									<img class="img-responsive" src="../images/pi10.png" alt="" />
-
+								<a href="single.php">
+									<img class="img-responsive" src="../images/pi4.png" alt="" />
 								</a>
 								<h3><a href="single.php">Pant</a></h3>
 								<div class="price">
@@ -105,9 +103,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.html">
-									<img class="img-responsive" src="../images/pi11.png" alt="" />
-
+								<a href="single.php">
+									<img class="img-responsive" src="../images/pi1.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -119,9 +116,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-								<a href="single.html">
-									<img class="img-responsive" src="../images/pi9.png" alt="" />
-
+								<a href="single.php">
+									<img class="img-responsive" src="../images/pi3.png" alt="" />
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
@@ -134,9 +130,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi12.png" alt="" />
+									<img class="img-responsive" src="../images/pi5.png" alt="" />
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
@@ -154,7 +149,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi10.png" alt="" />
+									<img class="img-responsive" src="../images/pi6.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -166,9 +161,8 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi11.png" alt="" />
+									<img class="img-responsive" src="../images/pi7.png" alt="" />
 								</a>
 								<h3><a href="single.php">Jeans</a></h3>
 								<div class="price">
@@ -182,7 +176,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
 								<a href="single.php">
-									<img class="img-responsive" src="../images/pi9.png" alt="" />
+									<img class="img-responsive" src="../images/pi8.png" alt="" />
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
@@ -205,7 +199,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									<li class="item1"><a href="#">Men </a>
 										<ul class="cute">
 											<li class="subitem1"><a href="men-shirts.php">Shirts</a></li>
-											<li class="subitem2"><a href="men-trousers.php">Trousers</a></li>
+											<li class="subitem2"><a href="men-trousers.php-">Trousers</a></li>
 											<li class="subitem3"><a href="men-shoes.php">Shoes</a></li>
 										</ul>
 									</li>
@@ -267,7 +261,6 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							<div class="product-go">
 								<div class=" fashion-grid">
 									<a href="single.php"><img class="img-responsive " src="../images/pr.jpg" alt=""></a>	
-
 								</div>
 								<div class=" fashion-grid1">
 									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
@@ -277,9 +270,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 							</div>
 							<div class="product-go">
 								<div class=" fashion-grid">
-
 									<a href="single.php"><img class="img-responsive " src="../images/pr1.jpg" alt=""></a>	
-
 								</div>
 								<div class=" fashion-grid1">
 									<h6 class="best2"><a href="single.php" >Lorem ipsum dolor sitamet consectetuer  </a></h6>
@@ -337,7 +328,7 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 		</div>
 		<!--//content-->
 
+		<!--FOOTER GOES HERE-->
 		<?php include("footer.php"); ?>
-
 	</body>
 </html>
