@@ -96,7 +96,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 							</div>
 						</div>	
 					
-					<div class="clearfix"> </div>
+						<div class="clearfix"></div>
 					</div>	
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
