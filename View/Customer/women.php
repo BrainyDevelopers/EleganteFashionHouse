@@ -37,16 +37,17 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 		    });
 		  </script>
 	</head>
-	<body>
+	
+<body>
 		<?php require('menu.php'); ?> 
-		<div class="breadcrumbs">
-				<div class="container">
-					<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
-						<li><a href="../../index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
-						<li class="active">Women</li>
-					</ol>
-				</div>
-		</div>
+			<div class="breadcrumbs">
+					<div class="container">
+						<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
+							<li><a href="../../index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
+							<li class="active">Women</li>
+						</ol>
+					</div>
+			</div>
 		<!--content-->
 		<div class="products">
 			<div class="container">
