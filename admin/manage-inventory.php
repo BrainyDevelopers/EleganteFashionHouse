@@ -7,7 +7,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 <!DOCTYPE html>
 <html>
 	<head>
-		<title>Elegante Fashion House - Products</title>
+		<title>Elegante Fashion House |Products</title>
 		<link href="assets/css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
 		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
 		<script src="assets/js/jquery.min.js"></script>
@@ -38,9 +38,9 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 		    });
 		  </script>
 	</head>
-	<body>
+<body>
 
-		<div class="products">
+	<div class="products">
 			<div class="container">
 				<h2>ALL PRODUCTS</h2>
 				<div class="col-md-9">
@@ -252,5 +252,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 			</div>
 		</div>
 		<!--//content-->
+
+		<?php include("footer.php"); ?>
 	</body>
 </html>
