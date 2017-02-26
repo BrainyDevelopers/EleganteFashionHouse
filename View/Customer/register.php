@@ -66,7 +66,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						</div>
 						 <div class="clearfix"> </div>
 						   <a class="news-letter" href="#">
-							 <label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i> </i>Sign Up</label>
+							 <label class="checkbox"><input type="checkbox" name="checkbox" checked=""><i> </i>Remember me</label>
 						   </a>
 						 </div>
 					     <div class=" col-md-6 register-bottom-grid">

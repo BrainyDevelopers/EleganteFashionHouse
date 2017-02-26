@@ -15,12 +15,14 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 		<!--theme-style-->
 		<link href="assets/css/style-c.css" rel="stylesheet" type="text/css" media="all" />	
 		<!--//theme-style-->
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+		<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
+		
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 		<meta name="keywords" content="Elegante Fashion House, Youth Fashion, Ghana Fashion House, Contemporary Designs, apparels in store" />
 		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-		<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-		<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
+
 		<!-- start menu -->
 		<script src="assets/js/bootstrap.min.js"></script>
 		<script src="assets/js/simpleCart.min.js"> </script>
@@ -199,25 +201,18 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 						<div class=" rsidebar span_1_of_left">
 								<h3 class="cate">Categories</h3>
 									 <ul class="menu-drop">
-									<li class="item1"><a href="#">Men </a>
+									<li class="item1"><a href="men.php">Men </a>
 										<ul class="cute">
 											<li class="subitem1"><a href="men-shirts.php">Shirts</a></li>
 											<li class="subitem2"><a href="men-trousers.php">Trousers</a></li>
 											<li class="subitem3"><a href="men-shoes.php">Shoes</a></li>
 										</ul>
 									</li>
-									<li class="item2"><a href="#">Women </a>
+									<li class="item2"><a href="women.php">Women</a>
 										<ul class="cute">
 											<li class="subitem1"><a href="women-trousers.php">Trousers </a></li>
 											<li class="subitem2"><a href="women-shoes.php">Shoes</a></li>
 											<li class="subitem3"><a href="women-skirts.php">Skirts</a></li>
-										</ul>
-									</li>
-									<li class="item3"><a href="#">Kids</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="kids-shoes.php">Shoes</a></li>
-											<li class="subitem2"><a href="kids-trousers.php">Trousers</a></li>
-											<li class="subitem3"><a href="kids-shirts.php">Shirts</a></li>
 										</ul>
 									</li>
 								</ul>
@@ -244,7 +239,7 @@ Customized by Brainy Developers, developers of e-commerce website for Elegante F
 									});
 								</script>
 
-					<a href="#" id="add-new">ADD NEW ITEM</a>
+					<a href="add-product.php" id="add-new">ADD NEW ITEM</a>
 
 		<!--//menu-->
 				</div>

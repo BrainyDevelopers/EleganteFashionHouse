@@ -1,59 +1,50 @@
 <!--A Design by W3layouts 
 Author: W3layout
 Author URL: http://w3layouts.com
-License: Creative Commons Attribution 3.0 Unported
-License URL: http://creativecommons.org/licenses/by/3.0/
+Customized by Brainy Developers, developers of e-commerce website for Elegante Fashion House 
 -->
+
 <!DOCTYPE html>
 <html>
 	<head>
-	<title>Youth Fashion A Ecommerce Category Flat Bootstrap Responsive Website Template | Men :: w3layouts</title>
-	<link href="../css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
-	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-	<script src="../js/jquery.min.js"></script>
-	<!-- Custom Theme files -->
-	<!--theme-style-->
-	<link href="../css/style.css" rel="stylesheet" type="text/css" media="all" />	
-	<!--//theme-style-->
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-	<meta name="keywords" content="Youth Fashion Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
-	Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design" />
-	<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
-	<link href='//fonts.googleapis.com/css?family=Raleway' rel='stylesheet' type='text/css'>
-	<link href='//fonts.googleapis.com/css?family=Poiret+One' rel='stylesheet' type='text/css'>
-	<!-- start menu -->
-	<script src="../js/bootstrap.min.js"></script>
-	<script src="../js/simpleCart.min.js"> </script>
-	<!-- slide -->
-	<script src="../js/responsiveslides.min.js"></script>
-	   <script>
-	    $(function () {
-	      $("#slider").responsiveSlides({
-	      	auto: true,
-	      	speed: 500,
-	        namespace: "callbacks",
-	        pager: true,
-	      });
-	    });
-	  </script>
+		<title>Elegante Fashion House - Products</title>
+		<link href="assets/css/bootstrap-3.1.1.min.css" rel='stylesheet' type='text/css' />
+		<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+		<script src="assets/js/jquery.min.js"></script>
+		<!-- Custom Theme files -->
+		<!--theme-style-->
+		<link href="assets/css/style-c.css" rel="stylesheet" type="text/css" media="all" />	
+		<!--//theme-style-->
+		<link href="http://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" rel="stylesheet">
+		<link href='https://fonts.googleapis.com/css?family=Muli:400,300' rel='stylesheet' type='text/css'>
+		
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+		<meta name="keywords" content="Elegante Fashion House, Youth Fashion, Ghana Fashion House, Contemporary Designs, apparels in store" />
+		<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+
+		<!-- start menu -->
+		<script src="assets/js/bootstrap.min.js"></script>
+		<script src="assets/js/simpleCart.min.js"> </script>
+		<!-- slide -->
+		<script src="assets/js/responsiveslides.min.js"></script>
+
+		   <script>
+		    $(function () {
+		      $("#slider").responsiveSlides({
+		      	auto: true,
+		      	speed: 500,
+		        namespace: "callbacks",
+		        pager: true,
+		      });
+		    });
+		  </script>
 	</head>
 	<body>
 
-		<?php require('menu.php');?> 
-
-		<div class="breadcrumbs">
-				<div class="container">
-					<ol class="breadcrumb breadcrumb1 animated wow slideInLeft animated" data-wow-delay=".5s" style="visibility: visible; animation-delay: 0.5s; animation-name: slideInLeft;">
-						<li><a href="../../index.php"><span class="glyphicon glyphicon-home" aria-hidden="true"></span>Home</a></li>
-						<li class="active">Men</li>
-					</ol>
-				</div>
-			</div>
-		<!--content-->
 		<div class="products">
 			<div class="container">
-				<h2>Ties</h2>
+				<h2>SHOES</h2>
 				<div class="col-md-9">
 					<div class="content-top1">
 						<div class="col-md-4 col-md4">
@@ -61,10 +52,11 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								<a href="single.html">
 									<img class="img-responsive" src="../images/pi9.png" alt="" />
 								</a>
-								<h3><a href="single.php">Trouser</a></h3>
+								<h3><a href="single.php">Skirt</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$60</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
@@ -77,8 +69,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$60</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -92,8 +85,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</a>
 								<h3><a href="single.php">Pant</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$70</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -111,8 +105,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$80</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
@@ -125,8 +120,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$90</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -134,15 +130,15 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						</div>	
 					<div class="col-md-4 col-md4">
 							<div class="col-md1 simpleCart_shelfItem">
-
 								<a href="single.php">
 									<img class="img-responsive" src="../images/pi12.png" alt="" />
 								</a>
 								<h3><a href="single.php">Palazoo</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
-										<div class="clearfix"> </div>
+									<h5 class="item_price">$85</h5>
+									<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+									<a href="add-product.php" class="item_add delete">DELETE</a>
+									<div class="clearfix"> </div>
 								</div>
 								
 							</div>
@@ -158,8 +154,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$76</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 							</div>
@@ -172,8 +169,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</a>
 								<h3><a href="single.php">Jeans</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$70</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -186,8 +184,9 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 								</a>
 								<h3><a href="single.php">Trouser</a></h3>
 								<div class="price">
-										<h5 class="item_price">$300</h5>
-										<a href="#" class="item_add">Add To Cart</a>
+										<h5 class="item_price">$80</h5>
+										<a href="edit-product.php" class="item_add edit">EDIT</a><br>
+										<a href="add-product.php" class="item_add delete">DELETE</a>
 										<div class="clearfix"> </div>
 								</div>
 								
@@ -202,44 +201,23 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 						<div class=" rsidebar span_1_of_left">
 								<h3 class="cate">Categories</h3>
 									 <ul class="menu-drop">
-									<li class="item1"><a href="#">Men </a>
+									<li class="item1"><a href="men.php">Men </a>
 										<ul class="cute">
 											<li class="subitem1"><a href="men-shirts.php">Shirts</a></li>
 											<li class="subitem2"><a href="men-trousers.php">Trousers</a></li>
 											<li class="subitem3"><a href="men-shoes.php">Shoes</a></li>
 										</ul>
 									</li>
-									<li class="item2"><a href="#">Women </a>
+									<li class="item2"><a href="women.php">Women</a>
 										<ul class="cute">
-											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="single.php">Automatic Fails </a></li>
-										</ul>
-									</li>
-									<li class="item3"><a href="#">Kids</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
-										</ul>
-									</li>
-									<li class="item4"><a href="#">Accessories</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="single.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="single.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="single.php">Automatic Fails</a></li>
-										</ul>
-									</li>
-											
-									<li class="item4"><a href="#">Shoes</a>
-										<ul class="cute">
-											<li class="subitem1"><a href="product.php">Cute Kittens </a></li>
-											<li class="subitem2"><a href="product.php">Strange Stuff </a></li>
-											<li class="subitem3"><a href="product.php">Automatic Fails </a></li>
+											<li class="subitem1"><a href="women-trousers.php">Trousers </a></li>
+											<li class="subitem2"><a href="women-shoes.php">Shoes</a></li>
+											<li class="subitem3"><a href="women-skirts.php">Skirts</a></li>
 										</ul>
 									</li>
 								</ul>
 							</div>
+
 						<!--initiate accordion-->
 								<script type="text/javascript">
 									$(function() {
@@ -260,14 +238,14 @@ License URL: http://creativecommons.org/licenses/by/3.0/
 									
 									});
 								</script>
+
+					<a href="add-product.php" id="add-new">ADD NEW ITEM</a>
+
 		<!--//menu-->
 				</div>
 				<div class="clearfix"> </div>
 			</div>
 		</div>
 		<!--//content-->
-
-		<?php include("footer.php"); ?>
-
 	</body>
 </html>
