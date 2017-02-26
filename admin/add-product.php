@@ -145,7 +145,7 @@
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <label for="product-image">Product Image</label>
-                                                <input type="file" name="product-image">
+                                                <input type="file" class="form-control border-input" name="product-image">
                                             </div>
                                         <div class="col-md-12">
                                             <div class="form-group">
