@@ -128,7 +128,7 @@
                             <div class="content">
 
                                 <!-- Form start here -->
-                                <form>
+                                <form enctype="multipart/form-data" action="POST">
                                     <div class="row">
                                         <div class="col-md-6">
                                             <div class="form-group">
@@ -142,6 +142,11 @@
                                                 <input type="number" class="form-control border-input" value="jomens">
                                             </div>
                                         </div>
+                                        <div class="col-md-12">
+                                            <div class="form-group">
+                                                <label for="product-image">Product Image</label>
+                                                <input type="file" name="product-image">
+                                            </div>
                                         <div class="col-md-12">
                                             <div class="form-group">
                                                 <label for="exampleInputEmail1">Description</label>
