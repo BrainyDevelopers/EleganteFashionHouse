@@ -3406,3 +3406,43 @@ textarea.form-control {
   color: black;
   border: 1px solid #2c8949;
 }
+.price h5 {
+    color: #000;
+    font-size: 1.2em;
+    margin: 14px 0;
+}
+.price {
+    text-align: center;
+}
+.price a {
+    color: #FFF;
+    font-size: 0.8em;
+    display: block;
+    background-color: #403b37;
+    padding: 0.3em 0.6em;
+    border-radius: 3px;
+    text-decoration: none;
+    width: 43%;
+    margin: 0 auto;
+}
+.price a {
+    width: 50%;
+}
+.price a {
+    width: 35%;
+}
+.price h5 {
+    font-size: 1.1em;
+}
+.price a {
+  padding: 0.3em 0.5em;
+}
+.price h5 {
+  font-size: 1em;
+  margin-top: 6px;
+}
+h3.cate {
+    font-size: 1.5em;
+    font-family: 'Muli', cursive;
+    font-weight: 700;
+}
